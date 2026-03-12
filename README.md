@@ -1,14 +1,10 @@
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Calvin+Dsouza;Building+Security+%2B+AI+Solutions;Cybersecurity+Student+@+NMAMIT" alt="Typing SVG" />
-</div>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=42&pause=99999&color=F5F0E8&center=true&vCenter=true&width=800&height=80&lines=Calvin+Dsouza" alt="Calvin Dsouza" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&size=16&duration=4000&pause=1200&color=C8A96E&center=true&vCenter=true&width=620&height=36&lines=I+craft+elevated+digital+experiences.;Interfaces+that+don%27t+just+work+%E2%80%94+they+feel+alive.;Security+%C3%97+AI+%C3%97+Human+Experience.;Building+what+shouldn%27t+be+possible." alt="subtitle" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=4000&pause=1200&color=C8A96E&center=true&vCenter=true&width=620&lines=I+craft+elevated+digital+experiences.;Interfaces+that+don%27t+just+work+%E2%80%94+they+feel+alive.;Security+%C3%97+AI+%C3%97+Human+Experience.;Building+what+shouldn%27t+be+possible." alt="typing" />
-
-<br/><br/>
 
 [![Email](https://img.shields.io/badge/calvinja320%40gmail.com-1a1208?style=flat-square&logo=gmail&logoColor=c8a96e)](mailto:calvinja320@gmail.com)
 &nbsp;
@@ -100,7 +96,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1a1208?style=flat-square&logo=wireshark&logoColor=c8a96e)
 ![CTF](https://img.shields.io/badge/CTF_Competitor-1a1208?style=flat-square&logo=hackthebox&logoColor=c8a96e)
 ![OSINT](https://img.shields.io/badge/OSINT-1a1208?style=flat-square&logo=tor&logoColor=c8a96e)
-![Forensics](https://img.shields.io/badge/Digital_Forensics-1a1208?style=flat-square&logo=&logoColor=c8a96e)
+![Forensics](https://img.shields.io/badge/Digital_Forensics-1a1208?style=flat-square&logoColor=c8a96e)
 
 </div>
 
@@ -187,8 +183,6 @@ Co-organised collegiate CTF competitions. Conceptualised campus events including
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&customColorList=0,2,4,12,20&section=footer" width="100%"/>
 
 <br/>
 
