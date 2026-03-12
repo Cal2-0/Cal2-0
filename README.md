@@ -1,6 +1,8 @@
 <div align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Calvin+Dsouza;Building+Security+%2B+AI+Solutions;Cybersecurity+Student+@+NMAMIT" alt="Typing SVG" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=Calvin%20Dsouza&fontColor=f5f0e8&fontSize=52&fontAlign=50&fontAlignY=42&desc=Security%20%C3%97%20AI%20%E2%80%94%20Developer%20%26%20Bespoke%20Designer&descSize=16&descAlignY=64&descColor=c8a96e&animation=twinkling" width="100%"/>
 
 <br/>
 
