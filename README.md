@@ -1,6 +1,6 @@
 <div align="center">
 
-# Calvin Dsouza
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&text=Calvin%20Dsouza&fontColor=f5f0e8&fontSize=52&fontAlign=50&fontAlignY=42&desc=Security%20%C3%97%20AI%20%E2%80%94%20Developer%20%26%20Bespoke%20Designer&descSize=16&descAlignY=64&descColor=c8a96e&animation=twinkling" width="100%"/>
 
 <br/>
 
