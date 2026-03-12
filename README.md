@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&customColorList=0,2,4,12,20&text=Calvin%20Jude%20Dsouza&fontColor=f5f0e8&fontSize=48&fontAlign=50&fontAlignY=52&desc=Developer%20%26%20Bespoke%20Designer%20%E2%80%94%20Security%20%C3%97%20AI&descSize=15&descAlignY=74&descColor=8a7a6a&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&customColorList=0,2,4,12,20&text=Calvin%20Jude%20Dsouza&fontColor=f5f0e8&fontSize=48&fontAlign=50&fontAlignY=52&desc=Developer%20%26%20Bespoke%20Designer%20%E2%80%94%20Security%20%C3%97%20AI&descSize=15&descAlignY=74&descColor=8a7a6a&animation=fadeIn&fontAlignY=52" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=4000&pause=1200&color=C8A96E&center=true&vCenter=true&width=620&lines=I+craft+elevated+digital+experiences.;Interfaces+that+don%27t+just+work+%E2%80%94+they+feel+alive.;Security+%C3%97+AI+%C3%97+Human+Experience.;Building+what+shouldn%27t+be+possible." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=4000&pause=1200&color=C8A96E&center=true&vCenter=true&width=620&lines=I+craft+elevated+digital+experiences.;Interfaces+that+don%27t+just+work+%E2%80%94+they+feel+alive.;Security+%C3%97+AI+%C3%97+Human+Experience.;Building+what+shouldn%27t+be+possible." alt="typing" />
 
 <br/><br/>
 
