@@ -13,6 +13,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Cal2-0&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Cal2-0?style=for-the-badge&color=06b6d4&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -35,9 +37,66 @@
 
 <div align="center">
 
-| 🎓 CGPA | 🏴 CTFs Competed | 🛠️ Projects Built | 🏆 Hackathon Podium |
-|:---:|:---:|:---:|:---:|
-| **9.26 / 10** | **7+** | **9+** | **1** |
+| 🎓 CGPA | 🏴 CTFs Competed | 🛠️ Projects Built | 🏆 Hackathon Podium | ⭐ GitHub Stars |
+|:---:|:---:|:---:|:---:|:---:|
+| **9.26 / 10** | **7+** | **9+** | **1** | **Growing** |
+
+</div>
+
+<br/>
+
+---
+
+## 📊 &nbsp; GitHub Analytics
+
+<br/>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&ring_color=6366f1&include_all_commits=true&custom_title=Calvin's+Stats" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&text_color=94a3b8&bg_color=0d1117&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Cal2-0&theme=github-dark-blue&hide_border=true&border_radius=10&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&background=0D1117" />
+
+</div>
+
+<br/>
+
+---
+
+## 🧊 &nbsp; 3D Contribution Graph
+
+<br/>
+
+<div align="center">
+
+<!-- 3D contribution graph — auto-generated daily via GitHub Actions -->
+<!-- Setup: https://github.com/yoshi389111/github-profile-3d-contrib -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</picture>
+
+> ⚙️ *Auto-regenerated daily · [See workflow setup ↓](#setup-3d-graph)*
+
+</div>
+
+<br/>
+
+---
+
+## 🔥 &nbsp; Contribution Activity
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&bg_color=0d1117&color=6366f1&line=06b6d4&point=f97316&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution+Activity+Graph&radius=10" width="96%"/>
 
 </div>
 
@@ -153,7 +212,7 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 
 <br/>
 
-**Languages & Core**
+### 🔤 Languages & Core
 
 <div align="center">
 
@@ -163,7 +222,7 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 
 <br/>
 
-**AI & Machine Learning**
+### 🤖 AI & Machine Learning
 
 <div align="center">
 
@@ -177,7 +236,7 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 
 <br/>
 
-**Frameworks & Infrastructure**
+### ⚙️ Frameworks & Infrastructure
 
 <div align="center">
 
@@ -187,7 +246,7 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 
 <br/>
 
-**Cybersecurity Toolkit**
+### 🛡️ Cybersecurity Toolkit
 
 <div align="center">
 
@@ -211,26 +270,9 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 
 ---
 
-## `03` &nbsp; GitHub Analytics
+## 🏆 &nbsp; GitHub Trophies
+
 <br/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&ring_color=6366f1&include_all_commits=true&custom_title=Calvin's+Stats&v=1" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&text_color=94a3b8&bg_color=0d1117&langs_count=7&v=1" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Cal2-0&theme=github-dark-blue&hide_border=true&border_radius=10&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&background=0D1117" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&bg_color=0d1117&color=6366f1&line=06b6d4&point=f97316&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution+Activity+Graph" width="96%"/>
-
-</div>
-
-<br/><br/>
 
 <div align="center">
 
@@ -239,9 +281,10 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 </div>
 
 <br/>
+
 ---
 
-## `04` &nbsp; Recognition & Achievements
+## `03` &nbsp; Recognition & Achievements
 
 <br/>
 
@@ -264,7 +307,7 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 
 ---
 
-## `05` &nbsp; Experience
+## `04` &nbsp; Experience
 
 <br/>
 
@@ -296,13 +339,72 @@ Co-organised collegiate CTF competitions. Conceptualised campus events including
 
 ---
 
-## `06` &nbsp; Education
+## `05` &nbsp; Education
 
 <br/>
 
 ```
 🎓  B.Tech in Cybersecurity      NMAM Institute of Technology      2024 – 2028      CGPA: 9.26 / 10.0
 📚  Higher Secondary             Indian High School, Dubai          2010 – 2022      Score: 8.91
+```
+
+<br/>
+
+---
+
+## 📬 &nbsp; Let's Connect
+
+<br/>
+
+<div align="center">
+
+| | Platform | Handle |
+|:---:|:---|:---|
+| 📧 | Email | [calvinja320@gmail.com](mailto:calvinja320@gmail.com) |
+| 💼 | LinkedIn | [linkedin.com/in/calvin-jude-dsouza](https://linkedin.com/in/calvin-jude-dsouza) |
+| 🐙 | GitHub | [github.com/Cal2-0](https://github.com/Cal2-0) |
+| 🌐 | Portfolio | [courageous-pithivier-cb9e32.netlify.app](https://courageous-pithivier-cb9e32.netlify.app) |
+
+</div>
+
+<br/>
+
+---
+
+## ⚙️ &nbsp; Setup 3D Graph
+
+<a name="setup-3d-graph"></a>
+
+To enable the 3D contribution graph, add this file to your repo at `.github/workflows/3d-contrib.yml`:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3D contribution graph" || exit 0
+          git push
+```
+
+Then reference the output image in your README:
+```markdown
+![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
 ```
 
 <br/>
