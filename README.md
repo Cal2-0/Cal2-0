@@ -53,9 +53,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&ring_color=6366f1&include_all_commits=true&custom_title=Calvin's+Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&icon_color=06b6d4&text_color=94a3b8&bg_color=0d1117&ring_color=6366f1&custom_title=Calvin's+Stats&v=8472" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&text_color=94a3b8&bg_color=0d1117&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=10&title_color=6366f1&text_color=94a3b8&bg_color=0d1117&langs_count=8&v=8472" />
 
 <br/><br/>
 
