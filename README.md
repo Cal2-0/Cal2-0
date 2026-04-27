@@ -371,45 +371,6 @@ Co-organised collegiate CTF competitions. Conceptualised campus events including
 
 ---
 
-## ⚙️ &nbsp; Setup 3D Graph
-
-<a name="setup-3d-graph"></a>
-
-To enable the 3D contribution graph, add this file to your repo at `.github/workflows/3d-contrib.yml`:
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Generated 3D contribution graph" || exit 0
-          git push
-```
-
-Then reference the output image in your README:
-```markdown
-![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
-```
-
-<br/>
-
----
 
 <div align="center">
 
