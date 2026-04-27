@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/calvinja320%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calvinja320@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Calvin%20Dsouza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calvin-dsouza)
+[![LinkedIn](https://img.shields.io/badge/Calvin%20Dsouza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calvin-jude-dsouza)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://courageous-pithivier-cb9e32.netlify.app)
 &nbsp;
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-| 🎓 CGPA | 🏴 CTFs Competed | 🛠️ Projects Shipped | 🏆 Hackathon Podium |
+| 🎓 CGPA | 🏴 CTFs Competed | 🛠️ Projects Built | 🏆 Hackathon Podium |
 |:---:|:---:|:---:|:---:|
-| **9.26 / 10** | **7+** | **9+** | **1 Win** |
+| **9.26 / 10** | **7+** | **9+** | **1** |
 
 </div>
 
@@ -212,7 +212,6 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 ---
 
 ## `03` &nbsp; GitHub Analytics
-
 <br/>
 
 <div align="center">
@@ -223,7 +222,7 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Cal2-0&theme=github-dark-blue&hide_border=true&border_radius=10&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=Cal2-0&theme=github-dark-blue&hide_border=true&border_radius=10&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&background=0D1117" />
 
 <br/><br/>
 
@@ -240,7 +239,6 @@ Maps a /24 subnet (254 hosts) in under **12s** via raw Unix sockets — 100% rog
 </div>
 
 <br/>
-
 ---
 
 ## `04` &nbsp; Recognition & Achievements
