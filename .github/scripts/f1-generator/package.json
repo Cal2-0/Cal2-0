@@ -1,0 +1,8 @@
+{
+  "name": "f1-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@octokit/graphql": "^8.0.0"
+  }
+}
