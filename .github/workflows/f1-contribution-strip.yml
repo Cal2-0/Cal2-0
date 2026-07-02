@@ -3,10 +3,10 @@ name: F1 Contribution Strip
 on:
   schedule:
     - cron: "0 0 * * *"   # Daily at midnight UTC
-  workflow_dispatch:        # Manual trigger
+  workflow_dispatch:
 
 permissions:
-  contents: write           # Required to push to output branch
+  contents: write
 
 jobs:
   generate:
@@ -14,17 +14,17 @@ jobs:
 
     steps:
       - name: Checkout main
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Install dependencies
         run: |
           cd .github/scripts/f1-generator
-          npm ci
+          npm install
 
       - name: Fetch contribution data & generate SVGs
         env:
@@ -39,14 +39,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Checkout or create output branch (orphan = no history bloat)
-          git fetch origin output 2>/dev/null && git checkout output \
-            || git checkout --orphan output && git rm -rf . --quiet
+          git fetch origin output 2>/dev/null && git checkout output || git checkout --orphan output
 
-          # Copy generated SVGs into root
-          cp .github/scripts/f1-generator/output/f1-strip-dark.svg  f1-strip-dark.svg
+          git rm -rf . >/dev/null 2>&1 || true
+
+          mkdir -p .github/scripts/f1-generator/output
+
+          cp .github/scripts/f1-generator/output/f1-strip-dark.svg f1-strip-dark.svg
           cp .github/scripts/f1-generator/output/f1-strip-light.svg f1-strip-light.svg
 
           git add f1-strip-dark.svg f1-strip-light.svg
+
           git diff --cached --quiet || git commit -m "chore: regenerate F1 strip [skip ci]"
+
           git push origin output --force
