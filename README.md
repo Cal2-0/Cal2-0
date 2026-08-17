@@ -1,394 +1,340 @@
 <div align="center">
 
-<img src="./assets/seal-hero.svg" width="150" alt="Field archive seal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=CALVIN%20DSOUZA&fontSize=42&fontColor=39FF88&fontAlignY=40&desc=cybersecurity%20%C2%B7%20digital%20forensics%20%C2%B7%20applied%20AI&descSize=16&descColor=FF4FA3&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<h1>CHAIN OF CUSTODY</h1>
-<sub><b>FIELD ARCHIVE OF CALVIN J. DSOUZA</b> &nbsp;·&nbsp; CYBERSECURITY &amp; APPLIED AI</sub>
+<a href="https://github.com/Cal2-0">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=560&lines=whoami+%3E+security+researcher+%2B+builder;analyzing+wallets%2C+networks%2C+deepfakes...;status%3A+open+to+internships+%2B+research" alt="typing" />
+</a>
 
-<br/><br/>
+<br/>
 
-<i>Every system leaves a trace. This is mine.</i>
-
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/calvinja320%40gmail.com-12151A?style=for-the-badge&logo=gmail&logoColor=B8874A&labelColor=12151A)](mailto:calvinja320@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-12151A?style=for-the-badge&logo=linkedin&logoColor=4B8B85&labelColor=12151A)](https://linkedin.com/in/calvin-jude-dsouza)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-12151A?style=for-the-badge&logo=netlify&logoColor=9C3D34&labelColor=12151A)](https://courageous-pithivier-cb9e32.netlify.app)&nbsp;
-[![GitHub](https://img.shields.io/badge/Cal2--0-12151A?style=for-the-badge&logo=github&logoColor=8A8F97&labelColor=12151A)](https://github.com/Cal2-0)
+[![Email](https://img.shields.io/badge/-calvinja320%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4FA3)](mailto:calvinja320@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF88)](https://linkedin.com/in/calvin-jude-dsouza)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://courageous-pithivier-cb9e32.netlify.app)
+[![GitHub](https://img.shields.io/badge/-Cal2--0-0D1117?style=for-the-badge&logo=github&logoColor=8A8F97)](https://github.com/Cal2-0)
 
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
 
-## INTAKE
-
-> B.Tech Cybersecurity, NMAM Institute of Technology — CGPA 9.26/10, Class of 2028.
-> Builds investigation platforms rather than dashboards: systems that establish *what happened*, not just *that something did*. Blockchain forensics, network intelligence, deepfake signal analysis, applied AI — all variations on the same question: can a machine produce evidence a human would trust?
-
-<div align="center">
-
-| Field | Record |
-|:--|:--|
-| Institution | NMAM Institute of Technology, Karkala |
-| Standing | CGPA 9.26 / 10.0 |
-| Current post | Team Lead, Cybersecurity Intern — Army Cyber Group, New Delhi |
-| Status | Open to internships &amp; collaborative research |
-
-</div>
-
-<br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
-
-## OPEN CASES
-
-<img src="./assets/stamp-active.svg" width="26" align="left" style="margin-right:8px" alt="" />
-Currently under active investigation:
-
-- **AXON** — extending the behavioural forensics engine and threat-intel corpus
-- **Lucent.ai** — interpretable deepfake signal research
-- **NeuroMetric** — multimodal behavioural analytics prototype
-
-<br clear="left"/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
-
-## EXHIBITS I–VII — SECURITY, FORENSICS &amp; SYSTEMS
+```yaml
+> whoami
+name:      Calvin J. Dsouza
+role:      Team Lead, Cybersecurity Intern @ Army Cyber Group, New Delhi
+edu:       B.Tech Cybersecurity, NMAM Institute of Technology — CGPA 9.26/10
+builds:    investigation platforms > dashboards
+question:  can a machine produce evidence a human would trust?
+```
 
 <br/>
 
-### EXHIBIT I — AXON
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+## `> ls active/`
 
-**Blockchain Behavioural Forensics &amp; Threat Intelligence Platform**
-`React` `D3.js` `FastAPI` `Python` `SQLAlchemy` `Etherscan` `Forta`
-
-Evaluates what a wallet *does* rather than what it's labelled. A 5-layer behavioural engine correlates transaction rhythm, fan-out topology and liquidity movement, then renders the relationships as interactive D3 force graphs and Sankey flows.
-
-- 5-layer behavioural engine — rhythm, topology, economic pass-through
-- Prosecution / Defense / Judge multi-agent adversarial verdict architecture
-- Cross-platform OSINT enrichment against a 13,847+ entity threat corpus
-
-**[View Repository →](https://github.com/Cal2-0/Axon)**
+```diff
++ AXON          blockchain behavioural forensics engine — actively extending
++ Lucent.ai     interpretable deepfake signal research
++ NeuroMetric   multimodal behavioural analytics prototype
+```
 
 <br/>
 
-### EXHIBIT II — SentinelAI
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+## `> cat projects/security_forensics_systems.log`
 
-**AI-Assisted Linux Incident Response Engine**
-`Python` `Streamlit` `asyncio` `Isolation Forest` `AST Analysis` `NVD` `EPSS`
+<table>
+<tr><td width="60%">
 
-Runs three independent security analyses — auth-log anomalies, package vulnerability exposure, installed-code behaviour — and consolidates them into one prioritised report.
+**`AXON`** — Blockchain Behavioural Forensics & Threat Intel
+`React` `D3.js` `FastAPI` `SQLAlchemy` `Etherscan` `Forta`
 
-- **ThreatTrace** — Isolation Forest over auth logs, scored on timing/failure/IP reputation
-- **VulnRank** — installed packages mapped against NVD + EPSS
-- **PacketSpy** — AST-level inspection of installed Python packages, no dynamic execution
+Scores wallets on behaviour, not labels — 5-layer engine (rhythm, fan-out topology, liquidity), Prosecution/Defense/Judge multi-agent verdicts, 13.8k+ entity threat corpus.
 
-**[View Repository →](https://github.com/Cal2-0/Sentinel-IP)**
+[`→ repo`](https://github.com/Cal2-0/Axon)
 
-<br/>
+</td><td width="40%" align="center">
 
-### EXHIBIT III — SecureCI
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-**AI-Assisted GitHub Actions Security Scanner**
-`Python` `YAML Analysis` `Gemini` `OWASP CI/CD`
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-Audits GitHub Actions workflows for unpinned actions, excessive permissions, exposed secrets and poisoned-pipeline patterns like unsafe `pull_request_target` usage — with optional AI-assisted remediation.
+**`SentinelAI`** — AI-Assisted Linux Incident Response
+`Python` `Streamlit` `Isolation Forest` `AST` `NVD` `EPSS`
 
-- Recursive `.github/workflows` scanning with structured JSON output
-- Detects hardcoded credentials and missing permission restrictions
+Three parallel agents — auth-log anomalies (ThreatTrace), package CVE exposure (VulnRank), AST-level malicious-code inspection (PacketSpy) — merged into one prioritised report.
 
-**[View Repository →](https://github.com/Danish4h-135/SecureCI)**
+[`→ repo`](https://github.com/Cal2-0/Sentinel-IP)
 
-<br/>
+</td><td width="40%" align="center">
 
-### EXHIBIT IV — VisionEX
-<img src="./assets/stamp-restricted.svg" width="52" align="right" alt="" />
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-**Enterprise Zero-Trust Security Suite**
-`OAuth2` `RBAC` `IAM` `Session Security` `Network Telemetry`
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-Led a 6-engineer team through an authentication architecture built on zero-trust principles — OAuth2, strict RBAC, continuous monitoring. Cleared three external security audits with zero critical vulnerabilities.
+**`SecureCI`** — GitHub Actions Security Scanner
+`Python` `YAML` `Gemini` `OWASP CI/CD`
 
-- Zero-trust identity architecture across the full auth stack
-- Addressed OWASP Top 10 alongside network-level intrusion vectors
+Audits workflows for unpinned actions, excessive permissions, exposed secrets, poisoned `pull_request_target` patterns — with optional AI remediation.
 
-*Repository not publicly listed.*
+[`→ repo`](https://github.com/Danish4h-135/SecureCI)
 
-<br/>
+</td><td width="40%" align="center">
 
-### EXHIBIT V — NetScope X v2.0
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-**Real-Time Network Intelligence Platform**
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
+
+**`VisionEX`** — Enterprise Zero-Trust Security Suite
+`OAuth2` `RBAC` `IAM` `Network Telemetry`
+
+Led a 6-engineer team building a zero-trust auth stack. Cleared 3 external security audits, zero critical vulns.
+
+`repo: private / not publicly listed`
+
+</td><td width="40%" align="center">
+
+![status](https://img.shields.io/badge/status-restricted-FF4FA3?style=flat-square&labelColor=0D1117)
+
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
+
+**`NetScope X v2.0`** — Real-Time Network Intelligence
 `Python` `Flask-SocketIO` `D3.js` `Scapy` `Nmap` `tshark`
 
-Continuously discovers devices, captures traffic and visualises topology in the browser — combining ARP analysis, passive capture and WSL-aware discovery into one live map.
+Live device discovery + traffic capture + topology map. Flags ARP spoofing, port scans, DNS tunnelling, traffic spikes in real time.
 
-- Detects ARP spoofing, port scans, DNS tunnelling, traffic spikes in real time
-- Live D3 topology with per-device risk scoring and deep-scan drill-down
+[`→ repo`](https://github.com/Cal2-0/Projects/tree/main/netscope)
 
-**[View Repository →](https://github.com/Cal2-0/Projects/tree/main/netscope)**
+</td><td width="40%" align="center">
 
-<br/>
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-### EXHIBIT VI — NetRecon
-<img src="./assets/stamp-restricted.svg" width="52" align="right" alt="" />
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-**Low-Level Raw-Socket LAN Scanner**
+**`NetRecon`** — Raw-Socket LAN Scanner
 `C` `Raw Sockets` `ICMP` `ARP` `TCP`
 
-Device discovery below the usual scanning abstractions — hand-built packet crafting in C, working directly against ICMP, ARP and TCP rather than a scanning library.
+Hand-built packet crafting against ICMP/ARP/TCP — systems-level networking, no scanning library.
 
-- Custom packet-crafting routines for active network mapping
-- Systems-level networking knowledge, not a wrapper around nmap
+`repo: private / not publicly listed`
 
-*Repository not publicly listed.*
+</td><td width="40%" align="center">
 
-<br/>
+![status](https://img.shields.io/badge/status-restricted-FF4FA3?style=flat-square&labelColor=0D1117)
 
-### EXHIBIT VII — Kalera
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-**Hybrid Post-Quantum Encryption &amp; Steganographic Transport**
-`ML-KEM-1024` `Classic McEliece` `SPHINCS+` `HKDF-SHA3` `FastAPI`
+**`Kalera`** — Hybrid Post-Quantum Encryption + Steganography
+`ML-KEM-1024` `Classic McEliece` `SPHINCS+` `HKDF-SHA3`
 
-A hybrid post-quantum architecture: ML-KEM-1024 and Classic McEliece for key establishment, HKDF-SHA3 for session derivation, then the payload hidden in an ordinary image via chaos-positioned LSB steganography and signed with SPHINCS+.
+PQ key establishment, chaos-positioned LSB steganography, SPHINCS+ signed payloads hidden in ordinary images.
 
-- Hybrid PQ key establishment + Walsh-Hadamard diffusion layer
-- Chaos-positioned steganographic transport with post-quantum signatures
+[`→ repo`](https://github.com/betrayed1996/Kalera)
 
-**[View Repository →](https://github.com/betrayed1996/Kalera)**
+</td><td width="40%" align="center">
 
-<br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-## EXHIBITS VIII–XIII — APPLIED INTELLIGENCE &amp; PRODUCT SYSTEMS
+</td></tr>
+</table>
 
 <br/>
 
-### EXHIBIT VIII — MassEd.ex
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+## `> cat projects/applied_intelligence.log`
 
-**Real-Time Crowd Intelligence &amp; Event Safety Platform**
-`Python` `OpenCV` `YOLOv8` `ByteTrack/DeepSORT` `Flask`
+<table>
+<tr><td width="60%">
 
-Turns live video into actionable crowd-safety information — detection, multi-object tracking, density heatmaps and region-of-interest danger-zone monitoring, built around continuous telemetry rather than single-frame classification.
+**`MassEd.ex`** — Real-Time Crowd Intelligence & Event Safety
+`OpenCV` `YOLOv8` `ByteTrack/DeepSORT` `Flask`
 
-- Real-time multi-object tracking in crowded scenes
-- Dynamic density heatmaps with ROI danger-zone alerts
+Live person tracking, density heatmaps, ROI danger-zone alerts from continuous video telemetry.
 
-**[View Repository →](https://github.com/Cal2-0/Projects/tree/main/Massex)**
+[`→ repo`](https://github.com/Cal2-0/Projects/tree/main/Massex)
 
-<br/>
+</td><td width="40%" align="center">
 
-### EXHIBIT IX — VaidikaAI
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-**Multilingual AI Hospital Triage &amp; Workflow System**
-`LLMs` `Python` `Prompt Engineering`
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-Built in a 48-hour constraint: a multi-model approach to symptom analysis and risk routing, with conversational workflows designed to speed up patient processing rather than replace clinical judgment.
+**`VaidikaAI`** — Multilingual Hospital Triage System
+`LLMs` `Prompt Engineering`
 
-- Multi-model symptom analysis and risk routing
-- Rapid architecture-to-delivery under hard time constraints
+Multi-model symptom analysis + risk routing, built in a 48-hour hackathon constraint.
 
-**[View Repository →](https://github.com/NITHINKR06/Qwerty201_Protothon)**
+[`→ repo`](https://github.com/NITHINKR06/Qwerty201_Protothon)
 
-<br/>
+</td><td width="40%" align="center">
 
-### EXHIBIT X — OuchMyBrain.io
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-**AI Adaptive Learning Platform** — 2nd Place, ACEathon
-`Python` `Flask` `OpenAI/OpenRouter` `OCR` `ElevenLabs`
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-Converts PDFs, scans and photos of notes into structured study material — summaries, flashcards, quizzes, and audio lessons via a contextual "Professor Mode."
+**`OuchMyBrain.io`** — AI Adaptive Learning Platform
+`OCR` `OpenAI/OpenRouter` `ElevenLabs`
+🥈 2nd Place, ACEathon
 
-- OCR ingestion pipeline for unstructured study material
-- Layered summarisation, adaptive quizzing, audio lessons
+Notes/PDFs → summaries, flashcards, quizzes, audio lessons via "Professor Mode."
 
-**[View Repository →](https://github.com/ACEathon-2025/Team-39)**
+[`→ repo`](https://github.com/ACEathon-2025/Team-39)
 
-<br/>
+</td><td width="40%" align="center">
 
-### EXHIBIT XI — FinTera
-<img src="./assets/stamp-restricted.svg" width="52" align="right" alt="" />
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-**Financial Planning &amp; Literacy Platform**
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
+
+**`FinTera`** — Financial Planning & Literacy Platform
 `Financial Analytics` `Interactive Calculators`
 
-A responsive personal-finance dashboard — SIP, EMI and tax calculators feeding into planning workflows built for accessibility, not spreadsheet literacy.
+SIP / EMI / tax calculators feeding dashboard-based planning workflows.
 
-- Interactive SIP / EMI / tax calculators
-- Dashboard-based planning workflows
+`repo: private / not publicly listed`
 
-*Repository not publicly listed.*
+</td><td width="40%" align="center">
 
-<br/>
+![status](https://img.shields.io/badge/status-restricted-FF4FA3?style=flat-square&labelColor=0D1117)
 
-### EXHIBIT XII — Lyra
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-**Developer Tools &amp; Resources Directory**
+**`Lyra`** — Developer Tools & Resources Directory
 `React 19` `Vite` `Tailwind` `Radix UI` `Fuse.js`
 
-640+ developer tools organised around intent rather than category, with semantic fuzzy search, a persistent "My Stack," and ⌘K keyboard-first navigation.
+640+ dev tools, semantic fuzzy search, persistent "My Stack," ⌘K navigation.
 
-- Fuse.js semantic search across the full catalogue
-- Persistent stack-building with local storage
+[`→ repo`](https://github.com/Cal2-0/guide)
 
-**[View Repository →](https://github.com/Cal2-0/guide)**
+</td><td width="40%" align="center">
 
-<br/>
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-### EXHIBIT XIII — VibeAlchemy
-<img src="./assets/stamp-verified.svg" width="52" align="right" alt="" />
+</td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td width="60%">
 
-**Context-Aware AI Movie Recommendation Extension**
+**`VibeAlchemy`** — Context-Aware Movie Recommendation Extension
 `Chrome Extension` `LLM Inference`
 
-Recommends films from natural-language moods and themes — and reads the active tab (Netflix, Prime Video, IMDb) as extra context for the recommendation.
+Recommends films from natural-language moods, reads active tab (Netflix/Prime/IMDb) as context.
 
-- Natural-language semantic recommendation matching
-- Page-context awareness across major streaming sites
+[`→ repo`](https://github.com/Cal2-0/VibeAlchemy)
 
-**[View Repository →](https://github.com/Cal2-0/VibeAlchemy)**
+</td><td width="40%" align="center">
 
-<br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
+![status](https://img.shields.io/badge/status-verified-39FF88?style=flat-square&labelColor=0D1117)
 
-## OPEN INQUIRIES — ACTIVE RESEARCH
-
-<sub>These are investigations, not shipped products. Where a result isn't experimentally validated yet, it's described as a research direction — not a finding.</sub>
+</td></tr>
+</table>
 
 <br/>
 
-### INQUIRY — Lucent.ai
-<img src="./assets/stamp-inquiry.svg" width="52" align="right" alt="" />
+## `> tail -f research/active.log`
 
-**Interpretable Deepfake Forensics**
-`PyTorch` `OpenCV` `FFT` `Diffusion Reconstruction`
-
-**Research question:** which mathematically interpretable signal anomalies best distinguish genuine media from deepfakes across *unseen* generation methods — and does fusing complementary anomaly descriptors improve generalisation?
-
-Current directions: frequency-domain (FFT) anomalies, diffusion reconstruction error, spatial artefacts, metadata/camera-signature inconsistencies, and fusing these into one generalising signal rather than one detector learning generator-specific tells.
-
-<br/>
-
-### INQUIRY — Kenshō (ケンショウ)
-<img src="./assets/stamp-inquiry.svg" width="52" align="right" alt="" />
-
-**Tacit Knowledge Capture &amp; Enterprise Workflow AI**
-`Python` `PostgreSQL` `LLaMA` `Elasticsearch`
-
-Investigates how the undocumented procedural knowledge an experienced employee carries can be captured, structured, and made searchable before it walks out the door — privacy-first, offline-capable, enterprise-deployable by design.
+```
+[ACTIVE] Lucent.ai        interpretable deepfake forensics — FFT + diffusion-recon anomalies,
+                           fusing descriptors for cross-generator generalisation
+[ACTIVE] Kenshō (ケンショウ)  tacit knowledge capture — turning undocumented expert workflow
+                           into searchable, privacy-first enterprise knowledge
+[ACTIVE] NeuroMetric       multimodal behavioural analytics — gaze/affect/speech/psychomotor
+                           fusion, edge-oriented, exploratory digital-biomarker research
+```
+<sub>research, not shipped product — unvalidated results are labelled directions, not findings</sub>
 
 <br/>
 
-### INQUIRY — NeuroMetric
-<img src="./assets/stamp-inquiry.svg" width="52" align="right" alt="" />
+## `> ls lab/ --smaller-builds`
 
-**Multimodal Behavioural Analytics**
-`React Native` `MediaPipe` `Librosa` `ClinicalBERT` `TFLite`
-
-Explores fusing gaze, facial affect, speech and psychomotor signals into structured behavioural representations — framed as exploratory digital-biomarker research, not a diagnostic tool.
-
-<br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
-
-## SUPPLEMENTARY FILES — ENGINEERING LAB
-
-<sub>Smaller builds. Not flagship work, but they show range.</sub>
-
-<br/>
-
-| Exhibit | What it demonstrates |
+| repo | demonstrates |
 |:--|:--|
-| **CalHive** | NLP productivity SPA — spaCy-based natural-language task classification |
-| **Warehouse Inventory System** | Full-stack inventory management: stock movement, RBAC, capacity tracking |
-| **The Health Compass** | Nutrition dashboard with TensorFlow-based food recognition |
-| **Movieszbt** | Authenticated movie catalogue + watchlist, TMDB integration |
-| **Secure Rooms Chat** | Password-protected room-based chat over WebSocket broadcasting |
-| **Universal Studio &amp; Pic Editor** | Media metadata extraction + programmatic image manipulation |
-| **Melkit** | Forensics utility — EXIF metadata + GPS coordinate extraction |
-| **ai.co** | Modular Flask interface unifying multiple hosted LLM endpoints |
-| **SnapShop** | CLIP-embedding image-based product recommendation |
-| **Cipher Lab** | Interactive classical cryptography — Caesar, Vigenère, ROT13 |
+| `CalHive` | spaCy NLP task classification SPA |
+| `Warehouse-Inventory-System` | full-stack stock/RBAC/capacity tracking |
+| `The-Health-Compass` | TensorFlow food recognition + nutrition dashboard |
+| `Movieszbt` | TMDB-integrated watchlist app |
+| `Secure-Rooms-Chat` | password-protected WebSocket chat rooms |
+| `Universal-Studio-Pic-Editor` | media metadata + programmatic image editing |
+| `Melkit` | EXIF/GPS forensics extraction utility |
+| `ai.co` | unified Flask interface across hosted LLMs |
+| `SnapShop` | CLIP-embedding product recommendation |
+| `Cipher-Lab` | Caesar / Vigenère / ROT13 interactive crypto |
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
 
-## RECORD OF PROCEEDINGS
+## `> cat proceedings.log`
+
+```
+🥈  Runner-Up            ACEathon Hackathon — OuchMyBrain.io
+🏴  4th Place             HackFest '26 Sidequest CTF
+🏴  7th Place             Code Intrusion CTF — forensics + web exploitation
+🏴  14th / 200+           Enyugma CTF — OSINT & reverse engineering
+🎖️  Special Commendation  Innovex Hackathon
+```
+
+<br/>
 
 <div align="center">
 
-| Result | Event |
-|:--|:--|
-| 🥈 Runner-Up | ACEathon Hackathon — OuchMyBrain.io |
-| 🏴 4th Place | HackFest '26 Sidequest CTF |
-| 🏴 7th Place | Code Intrusion CTF — forensics + web exploitation |
-| 🏴 14th / 200+ | Enyugma CTF — OSINT &amp; reverse engineering |
-| 🎖️ Special Commendation | Innovex Hackathon |
+## `> top -stats`
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&hide_border=true&border_radius=8&title_color=39FF88&icon_color=FF4FA3&text_color=8A8F97&bg_color=0D1117&ring_color=39FF88&custom_title=Case+Load" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&hide_border=true&border_radius=8&title_color=39FF88&text_color=8A8F97&bg_color=0D1117&langs_count=7" />
 
 <br/>
 
-## ASSIGNMENTS ON FILE
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cal2-0&hide_border=true&border_radius=8&background=0D1117&ring=39FF88&fire=FF4FA3&currStreakLabel=39FF88&sideLabels=8A8F97&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8F97" />
 
-- **Team Lead, Cybersecurity Intern** — Army Cyber Group, New Delhi
-- **Cybersecurity Developer Intern &amp; Team Lead** — NMAMIT, Jan–May 2025. Led a 6-member team building VisionEX; implemented Diffie-Hellman key exchange across every authenticated channel.
-- **Class Representative** — NMAMIT Cybersecurity Dept., Jan 2026–2027. Represents 60+ students on academic and administrative matters.
-- **Core Member, PROTON** — College Cybersecurity Association, Aug 2025–2026. Designed and ran collegiate CTFs including Game of Conquest and Fish Tank.
+<br/><br/>
 
-<details>
-<summary><b>Certifications on file</b></summary>
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&bg_color=0D1117&color=39FF88&line=FF4FA3&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-- IISc Bangalore · Pravega — Cybersecurity workshop
-- CYSECK NITK — Cybersecurity bootcamp + CTF
-- In progress: CompTIA Security+, eJPT, CHFI
-
-</details>
-
-<br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
-
-## CONTINUOUS MONITOR
-
-<div align="center">
-<img src="./assets/monitor.svg" width="100%" alt="Activity monitor" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&hide_border=true&border_radius=8&title_color=B8874A&icon_color=4B8B85&text_color=8A8F97&bg_color=12151A&ring_color=B8874A&custom_title=Case+Load" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&hide_border=true&border_radius=8&title_color=B8874A&text_color=8A8F97&bg_color=12151A&langs_count=7" />
+## `> ./snake.sh --eat contributions`
+
+<img src="https://raw.githubusercontent.com/Cal2-0/Cal2-0/output/github-contribution-grid-snake.svg" width="100%" alt="snake eating contribution graph" />
+
+<sub>generated nightly by GitHub Actions — see <code>.github/workflows/snake.yml</code></sub>
 
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
-<br/>
 
 <div align="center">
 
-## CORRESPONDENCE
+**Team Lead, Cybersecurity Intern** — Army Cyber Group, New Delhi
+· Cybersecurity Developer Intern & Team Lead, NMAMIT (Jan–May 2025) — led 6-member team on VisionEX
+· Class Representative, NMAMIT Cybersecurity Dept. (2026–2027) — 60+ students
+· Core Member, PROTON (2025–2026) — designed collegiate CTFs incl. Game of Conquest, Fish Tank
 
-Reach the archive directly: **[calvinja320@gmail.com](mailto:calvinja320@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/calvin-jude-dsouza)** &nbsp;·&nbsp; **[Portfolio](https://courageous-pithivier-cb9e32.netlify.app)**
+<sub>Certifications: IISc Bangalore/Pravega · CYSECK NITK · in progress — Security+, eJPT, CHFI</sub>
 
-<sub>Record maintained by the subject. Last updated on commit.</sub>
+</div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer"/>
+
+<div align="center">
+<sub>reach: <a href="mailto:calvinja320@gmail.com">calvinja320@gmail.com</a> · <a href="https://linkedin.com/in/calvin-jude-dsouza">LinkedIn</a> · <a href="https://courageous-pithivier-cb9e32.netlify.app">Portfolio</a></sub>
 </div>
