@@ -1,0 +1,25 @@
+<svg viewBox="0 0 110 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="UNDER INQUIRY">
+  <defs>
+    <filter id="igrunge" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" result="n" />
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="1.6" />
+    </filter>
+    <path id="iarc" d="M 13.65,39.95 A 44.00,44.00 0 0 1 96.35,39.95" fill="none" />
+  </defs>
+  <g transform="rotate(8 55.0 55.0)" filter="url(#igrunge)"
+     fill="none" stroke="#6B6F76" opacity="0.92">
+    <circle cx="55.0" cy="55.0" r="48.4" stroke-width="1.54" />
+    <circle cx="55.0" cy="55.0" r="40.7" stroke-width="0.77" />
+    <g stroke="#6B6F76" fill="#6B6F76" stroke-width="1.54" stroke-linecap="round">
+      <circle cx="55" cy="62.28" r="1.30" fill="currentColor" />
+      <path d="M 49.28,49.28 a 6.24,6.24 0 1 1 11.44,2.60 q -2.60,2.60 -2.60,7.28" fill="none" />
+    </g>
+    <text font-family="Georgia,'Times New Roman',serif" font-size="9.02"
+          letter-spacing="1.32" fill="#6B6F76" stroke="none">
+      <textPath href="#iarc" startOffset="50%" text-anchor="middle">UNDER INQUIRY</textPath>
+    </text>
+    <text x="55.0" y="80.23" text-anchor="middle"
+          font-family="'JetBrains Mono','Courier New',monospace" font-size="5.72"
+          letter-spacing="0.88" fill="#6B6F76" stroke="none">RESEARCH</text>
+  </g>
+</svg>
