@@ -1,20 +1,17 @@
 <div align="center">
 
 <a href="https://github.com/Cal2-0">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:1B2340&height=220&section=header&text=CALVIN%20DSOUZA&fontSize=46&fontColor=E8B75E&fontAlignY=42&desc=Cybersecurity%20Engineer%20%C2%B7%20Applied%20AI%20Researcher&descSize=17&descColor=C9B896&descAlignY=60&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAF6EF,100:F0E8D8&height=220&section=header&text=CALVIN%20DSOUZA&fontSize=46&fontColor=14213D&fontAlignY=42&desc=Cybersecurity%20Engineer%20%C2%B7%20Applied%20AI%20Researcher&descSize=17&descColor=5C5240&descAlignY=60&animation=fadeIn" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:1B2340&height=220&section=header&text=CALVIN+DSOUZA&fontSize=46&fontColor=E8B75E&fontAlignY=42&desc=Cybersecurity+Engineer+%C2%B7+Applied+AI+Researcher&descSize=17&descColor=C9B896&descAlignY=60&animation=fadeIn" width="100%">
 </a>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=17&duration=3200&pause=1200&color=E8B75E&center=true&vCenter=true&width=620&lines=building+systems+that+establish+what+happened;blockchain+forensics+%C2%B7+network+intel+%C2%B7+deepfake+signal+analysis;B.Tech+Cybersecurity+%40+NMAMIT+%C2%B7+CGPA+9.26%2F10" alt="typing"/>
 
 <br/><br/>
 
-<a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/badge/EMAIL-14213D?style=flat-square&labelColor=E8B75E&color=14213D" height="26"/></a>&nbsp;
-<a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/badge/LINKEDIN-14213D?style=flat-square&labelColor=E8B75E&color=14213D" height="26"/></a>&nbsp;
-<a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-14213D?style=flat-square&labelColor=E8B75E&color=14213D" height="26"/></a>&nbsp;
-<a href="https://github.com/Cal2-0"><img src="https://img.shields.io/badge/@Cal2--0-14213D?style=flat-square&labelColor=E8B75E&color=14213D" height="26"/></a>
+<a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=14213D&labelColor=E8B75E&style=flat-square" height="26"/></a>&nbsp;
+<a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=14213D&labelColor=E8B75E&style=flat-square" height="26"/></a>&nbsp;
+<a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=14213D&labelColor=E8B75E&style=flat-square" height="26"/></a>&nbsp;
+<a href="https://github.com/Cal2-0"><img src="https://img.shields.io/static/v1?label=&message=@Cal2-0&color=14213D&labelColor=E8B75E&style=flat-square" height="26"/></a>
 
 </div>
 
@@ -52,64 +49,72 @@
 ## Featured work
 
 <table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cal2-0&repo=Axon&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>Blockchain behavioural forensics</b> — 5-layer wallet risk engine, multi-agent adversarial verdicts, 13.8k+ entity threat corpus. `React` `D3.js` `FastAPI`</sub>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cal2-0&repo=Sentinel-IP&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>SentinelAI</b> — Linux incident response: auth-log anomaly detection, CVE exposure mapping, AST-level malicious code inspection. `Python` `Isolation Forest`</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Danish4h-135&repo=SecureCI&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>SecureCI</b> — GitHub Actions security scanner, AI-assisted remediation for CI/CD pipeline vulnerabilities. `Python` `OWASP CI/CD`</sub>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=betrayed1996&repo=Kalera&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>Kalera</b> — hybrid post-quantum encryption, chaos-positioned steganographic transport. `ML-KEM-1024` `SPHINCS+`</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cal2-0&repo=Projects&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>NetScope X</b> + <b>MassEd.ex</b> — live network topology/intrusion detection, and real-time crowd-safety computer vision. `Scapy` `YOLOv8`</sub>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cal2-0&repo=guide&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>Lyra</b> — 640+ developer tools, semantic fuzzy search, ⌘K navigation. `React 19` `Fuse.js`</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NITHINKR06&repo=Qwerty201_Protothon&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>VaidikaAI</b> — multilingual hospital triage, built in a 48-hour hackathon constraint. `LLMs`</sub>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ACEathon-2025&repo=Team-39&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>OuchMyBrain.io</b> — 🥈 2nd place, ACEathon. Notes → summaries, flashcards, audio lessons. `OCR` `ElevenLabs`</sub>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cal2-0&repo=VibeAlchemy&theme=transparent&title_color=E8B75E&text_color=8A8579&icon_color=E8B75E&border_color=E8B75E&hide_border=false" width="100%"/>
-<sub><b>VibeAlchemy</b> — mood-based movie recommendation extension, reads active tab as context. `Chrome Extension`</sub>
-</td>
-<td width="50%" valign="middle">
+<tr><td width="50%" valign="top">
 
-<sub>
+**[Axon →](https://github.com/Cal2-0/Axon)**
+Blockchain behavioural forensics — 5-layer wallet risk engine, multi-agent adversarial verdicts, 13.8k+ entity threat corpus.
+`React` `D3.js` `FastAPI`
 
-**Not publicly listed:**
-`VisionEX` — enterprise zero-trust suite, led 6-engineer team, 3 clean security audits
-`NetRecon` — raw-socket C LAN scanner, hand-built ICMP/ARP/TCP packet crafting
-`FinTera` — SIP/EMI/tax financial planning dashboard
+</td><td width="50%" valign="top">
 
-</sub>
+**[SentinelAI →](https://github.com/Cal2-0/Sentinel-IP)**
+Linux incident response — auth-log anomaly detection, CVE exposure mapping, AST-level malicious code inspection.
+`Python` `Isolation Forest`
 
-</td>
-</tr>
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**[SecureCI →](https://github.com/Danish4h-135/SecureCI)**
+GitHub Actions security scanner, AI-assisted remediation for CI/CD pipeline vulnerabilities.
+`Python` `OWASP CI/CD`
+
+</td><td width="50%" valign="top">
+
+**[Kalera →](https://github.com/betrayed1996/Kalera)**
+Hybrid post-quantum encryption, chaos-positioned steganographic transport.
+`ML-KEM-1024` `SPHINCS+`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**[NetScope X + MassEd.ex →](https://github.com/Cal2-0/Projects)**
+Live network topology/intrusion detection, and real-time crowd-safety computer vision.
+`Scapy` `YOLOv8`
+
+</td><td width="50%" valign="top">
+
+**[Lyra →](https://github.com/Cal2-0/guide)**
+640+ developer tools, semantic fuzzy search, ⌘K navigation.
+`React 19` `Fuse.js`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**[VaidikaAI →](https://github.com/NITHINKR06/Qwerty201_Protothon)**
+Multilingual hospital triage, built in a 48-hour hackathon constraint.
+`LLMs`
+
+</td><td width="50%" valign="top">
+
+**[OuchMyBrain.io →](https://github.com/ACEathon-2025/Team-39)** 🥈 2nd, ACEathon
+Notes → summaries, flashcards, audio lessons via "Professor Mode."
+`OCR` `ElevenLabs`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**[VibeAlchemy →](https://github.com/Cal2-0/VibeAlchemy)**
+Mood-based movie recommendation extension, reads active tab as context.
+`Chrome Extension`
+
+</td><td width="50%" valign="top">
+
+*Not publicly listed*
+`VisionEX` — zero-trust suite, led 6-engineer team, 3 clean audits
+`NetRecon` — raw-socket C LAN scanner
+`FinTera` — SIP/EMI/tax planning dashboard
+
+</td></tr>
 </table>
 
 <br/>
@@ -175,9 +180,8 @@ Fusing gaze, facial affect, speech and psychomotor signals into structured behav
 ## Recognition
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Cal2-0&theme=matrix&no-frame=true&row=1&column=6&title=Commits,Stars,PullRequest,Issues" />
 
-🥈 Runner-Up, ACEathon (OuchMyBrain.io) &nbsp;·&nbsp; 🏴 4th, HackFest '26 Sidequest CTF &nbsp;·&nbsp; 🏴 7th, Code Intrusion CTF &nbsp;·&nbsp; 🏴 14th/200+, Enyugma CTF &nbsp;·&nbsp; 🎖️ Special Commendation, Innovex
+🥈 **Runner-Up** — ACEathon (OuchMyBrain.io) &nbsp;·&nbsp; 🏴 **4th** — HackFest '26 Sidequest CTF &nbsp;·&nbsp; 🏴 **7th** — Code Intrusion CTF &nbsp;·&nbsp; 🏴 **14th/200+** — Enyugma CTF &nbsp;·&nbsp; 🎖️ **Special Commendation** — Innovex
 
 </div>
 
@@ -228,10 +232,7 @@ CYSECK NITK — bootcamp + CTF
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B2340,100:0B1120&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0E8D8,100:FAF6EF&height=120&section=footer" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2340,100:0B1120&height=120&section=footer" width="100%">
 
 <div align="center">
 <sub><a href="mailto:calvinja320@gmail.com">calvinja320@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/calvin-jude-dsouza">LinkedIn</a> &nbsp;·&nbsp; <a href="https://courageous-pithivier-cb9e32.netlify.app">Portfolio</a></sub>
