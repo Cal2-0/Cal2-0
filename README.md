@@ -1,18 +1,20 @@
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1410,100:6B2737&height=200&section=header&text=CALVIN%20DSOUZA&fontSize=40&fontColor=F4EFE6&fontAlignY=42&desc=I%20build%20systems%20that%20establish%20what%20happened&descSize=15&descColor=C9A227&descAlignY=62&animation=fadeIn" width="100%"/>
 
-# CALVIN DSOUZA
+<sub>B.Tech Cybersecurity, NMAM Institute of Technology &nbsp;·&nbsp; Team Lead, Cybersecurity Intern, Army Cyber Group, New Delhi</sub>
 
-I build systems that establish what happened — not just that something did.
+<br><br>
 
-B.Tech Cybersecurity, NMAM Institute of Technology · Team Lead, Cybersecurity Intern, Army Cyber Group, New Delhi
-
-<br>
+<a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=6B2737&labelColor=1C1410&style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=6B2737&labelColor=1C1410&style=for-the-badge"/></a>
+<a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=6B2737&labelColor=1C1410&style=for-the-badge"/></a>
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:6B2737&height=3&section=header" width="100%"/>
 
 <br>
 
@@ -22,19 +24,21 @@ B.Tech Cybersecurity, NMAM Institute of Technology · Team Lead, Cybersecurity I
 
 AXON is a blockchain behavioural forensics engine. Instead of matching addresses against a blocklist, it evaluates repeated on-chain behaviour through a five-layer risk model and a set of adversarial agents that argue toward a verdict, checked against a corpus of 13,800+ known threat entities.
 
-`React · D3.js · FastAPI · Python`
+<img src="https://img.shields.io/static/v1?label=&message=REACT&color=1C1410&labelColor=6B2737"/> <img src="https://img.shields.io/static/v1?label=&message=D3.JS&color=1C1410&labelColor=6B2737"/> <img src="https://img.shields.io/static/v1?label=&message=FASTAPI&color=1C1410&labelColor=6B2737"/> <img src="https://img.shields.io/static/v1?label=&message=PYTHON&color=1C1410&labelColor=6B2737"/>
 
 <div align="center">
+<br>
 
-*[ AXON case-graph visualization — replace with a real exported frame from the app, not a mockup ]*
+*[ AXON case-graph — export a real frame from the running app here, not a mockup ]*
 
+<br>
 </div>
 
 **[→ github.com/Cal2-0/Axon](https://github.com/Cal2-0/Axon)**
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:6B2737&height=2&section=header" width="100%"/>
 
 <br>
 
@@ -43,23 +47,23 @@ AXON is a blockchain behavioural forensics engine. Instead of matching addresses
 <td width="50%" valign="top">
 
 ### Lucent.ai
-*Active research — not shipped*
+<sub>Active research · not shipped</sub>
 
-Deepfakes are usually detected as a yes/no output. Lucent asks a narrower question instead: **which frequency-domain signal anomalies actually generalise to generation methods the model has never seen** — and does combining several weak, interpretable signals beat one strong opaque one?
+Deepfakes are usually detected as a yes/no output. Lucent asks a narrower question: **which frequency-domain signal anomalies actually generalise to generation methods the model has never seen** — and does combining several weak, interpretable signals beat one strong opaque one?
 
-`PyTorch · FFT · Diffusion Reconstruction`
+<img src="https://img.shields.io/static/v1?label=&message=PYTORCH&color=1C1410&labelColor=B8962E"/> <img src="https://img.shields.io/static/v1?label=&message=FFT&color=1C1410&labelColor=B8962E"/>
 
-No public repository yet. Status: under investigation.
+No public repository yet · under investigation.
 
 </td>
 <td width="50%" valign="top">
 
 ### Kalera
-*Working prototype*
+<sub>Working prototype</sub>
 
-A hybrid post-quantum protocol built on the premise that today's encryption assumptions won't last: ML-KEM-1024 for key exchange, SPHINCS+ for signing, and the resulting payload hidden inside an ordinary image rather than sent as visible ciphertext.
+A hybrid post-quantum protocol built on the premise that today's encryption assumptions won't last: ML-KEM-1024 for key exchange, SPHINCS+ for signing, payload hidden inside an ordinary image rather than sent as visible ciphertext.
 
-`ML-KEM-1024 · SPHINCS+ · HKDF-SHA3`
+<img src="https://img.shields.io/static/v1?label=&message=ML-KEM-1024&color=1C1410&labelColor=B8962E"/> <img src="https://img.shields.io/static/v1?label=&message=SPHINCS%2B&color=1C1410&labelColor=B8962E"/>
 
 **[→ github.com/betrayed1996/Kalera](https://github.com/betrayed1996/Kalera)**
 
@@ -69,7 +73,7 @@ A hybrid post-quantum protocol built on the premise that today's encryption assu
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:6B2737&height=2&section=header" width="100%"/>
 
 <br>
 
@@ -100,7 +104,7 @@ CalHive · Warehouse Inventory System · The Health Compass · Movieszbt · Secu
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C9A227,100:6B2737&height=2&section=header" width="100%"/>
 
 <br>
 
@@ -110,14 +114,17 @@ CalHive · Warehouse Inventory System · The Health Compass · Movieszbt · Secu
 
 <br>
 
-<details>
-<summary>Stats</summary>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&hide_border=true&border_radius=8&title_color=C9A227&icon_color=C9A227&text_color=F4EFE6&bg_color=1C1410" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&hide_border=true&border_radius=8&title_color=C9A227&text_color=F4EFE6&bg_color=1C1410&langs_count=7" height="150"/>
+
+</div>
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&hide_border=true&theme=default" height="150"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B2737,100:1C1410&height=100&section=footer" width="100%"/>
 
-</details>
-
-<br>
-
-[calvinja320@gmail.com](mailto:calvinja320@gmail.com) · [LinkedIn](https://linkedin.com/in/calvin-jude-dsouza) · [Portfolio](https://courageous-pithivier-cb9e32.netlify.app)
+<div align="center">
+<sub><a href="mailto:calvinja320@gmail.com">calvinja320@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/calvin-jude-dsouza">LinkedIn</a> &nbsp;·&nbsp; <a href="https://courageous-pithivier-cb9e32.netlify.app">Portfolio</a></sub>
+</div>
