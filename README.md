@@ -152,7 +152,7 @@ B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&theme=react-dark&bg_color=0E0F13&color=C9B8A8&line=39FF88&point=EAE0D5&area=true&hide_border=true" width="100%" alt="Calvin's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&theme=react-dark&bg_color=0D1017&color=D4AF37&line=D4AF37&point=EAE0D5&area=true&hide_border=true" width="100%" alt="Calvin's GitHub Activity Graph"/>
 </p>
 
 ## 🏎️ Contribution Stream
