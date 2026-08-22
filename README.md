@@ -93,49 +93,29 @@ B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class 
 
 ## 🔬 Featured Builds
 
-<table>
+<table border="0">
 <tr>
 <td width="50%">
-
-### [AXON](https://github.com/Cal2-0/Axon)
-**Blockchain Behavioural Forensics Engine**
-
-5-layer risk engine with prosecution/defence/judge multi-agent verdicts, 13,847+ entity threat corpus across BTC, SOL, EVM.
-
-`React` `D3.js` `FastAPI` `Etherscan` `Python`
-
+  <a href="https://github.com/Cal2-0/Axon">
+    <img src="card-axon.svg" width="100%" alt="AXON - Blockchain Behavioural Forensics"/>
+  </a>
 </td>
 <td width="50%">
-
-### [SentinelAI](https://github.com/Cal2-0/Sentinel-IP)
-**Linux Incident Response Engine**
-
-Three independent vectors — auth-log anomalies, CVE exposure, AST code inspection — into one prioritised report.
-
-`Python` `Isolation Forest` `AST` `Gemini 2.0`
-
+  <a href="https://github.com/Cal2-0/Sentinel-IP">
+    <img src="card-sentinel.svg" width="100%" alt="SentinelAI - Linux Incident Engine"/>
+  </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### [Kalera](https://github.com/betrayed1996/Kalera)
-**Hybrid Post-Quantum Encryption**
-
-ML-KEM-1024 key establishment + SPHINCS+ signatures + chaos-positioned steganographic payload transport.
-
-`ML-KEM-1024` `SPHINCS+` `HKDF-SHA3`
-
+  <a href="https://github.com/betrayed1996/Kalera">
+    <img src="card-kalera.svg" width="100%" alt="Kalera - Post-Quantum Steganography"/>
+  </a>
 </td>
 <td width="50%">
-
-### [SecureCI](https://github.com/Danish4h-135/SecureCI)
-**GitHub Actions Security Scanner**
-
-Audits workflows for unpinned actions, excessive permissions, poisoned pipeline patterns with AI remediation.
-
-`Python` `YAML` `OWASP CI/CD`
-
+  <a href="https://github.com/Danish4h-135/SecureCI">
+    <img src="card-secureci.svg" width="100%" alt="SecureCI - GitHub Actions Security"/>
+  </a>
 </td>
 </tr>
 </table>
@@ -190,12 +170,12 @@ IISc Bangalore / Pravega · CYSECK NITK<br/>
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&hide_border=true&border_radius=8&title_color=C9B8A8&icon_color=C9B8A8&text_color=8A8078&bg_color=0E0F13"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&hide_border=true&border_radius=8&title_color=C9B8A8&text_color=8A8078&bg_color=0E0F13&langs_count=8"/>
+  <img src="https://img.shields.io/github/followers/Cal2-0?style=for-the-badge&logo=github&color=1A1D28&labelColor=0E0F13&logoColor=C9B8A8" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Cal2-0?style=for-the-badge&logo=github&color=1A1D28&labelColor=0E0F13&logoColor=C9B8A8" alt="Stars"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cal2-0&hide_border=true&border_radius=8&background=0E0F13&stroke=C9B8A8&ring=C9B8A8&fire=EAE0D5&currStreakLabel=C9B8A8&sideLabels=8A8078&sideNums=EAE0D5&dates=6B6560&currStreakNum=EAE0D5"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&theme=react-dark&bg_color=0E0F13&color=C9B8A8&line=39FF88&point=EAE0D5&area=true&hide_border=true" width="100%" alt="Calvin's GitHub Activity Graph"/>
 </p>
 
 ## 🏎️ Contribution Stream
