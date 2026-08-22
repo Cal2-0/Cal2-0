@@ -21,25 +21,25 @@
 
   <line x1="20" y1="34" x2="415" y2="34" stroke="#252136" stroke-width="1"/>
 
-  <!-- Title -->
-  <text x="20" y="62" font-family="'Georgia', serif" font-size="22" font-weight="bold" fill="#EAE0D5">Kalera</text>
-  <text x="96" y="60" font-family="sans-serif" font-size="12" fill="#8E85A3">· Post-Quantum Steganography</text>
+  <!-- Title & Subtitle (Cleanly Separated) -->
+  <text x="20" y="62" font-family="'Georgia', serif" font-size="20" font-weight="bold" fill="#EAE0D5">Kalera</text>
+  <text x="105" y="60" font-family="sans-serif" font-size="11" fill="#8E85A3">· Post-Quantum Steganography</text>
 
   <!-- Highlights -->
   <text x="20" y="86" font-family="sans-serif" font-size="11" fill="#D4CDE5">• NIST-Compliant ML-KEM-1024 Key Encapsulation</text>
   <text x="20" y="104" font-family="sans-serif" font-size="11" fill="#A89FBF">• SPHINCS+ Quantum-Resistant Digital Signatures</text>
   <text x="20" y="122" font-family="sans-serif" font-size="11" fill="#C5A059">• Live Instance: kaleraapp.netlify.app</text>
 
-  <!-- Subtle Stack Tags -->
-  <rect x="20" y="146" width="102" height="22" rx="4" fill="#1F1C2E"/>
-  <text x="71" y="160" font-family="sans-serif" font-size="10" fill="#C5A059" text-anchor="middle">ML-KEM-1024</text>
+  <!-- Subtle Stack Tags (Comfortably Spaced) -->
+  <rect x="20" y="146" width="108" height="22" rx="4" fill="#1F1C2E"/>
+  <text x="74" y="160" font-family="sans-serif" font-size="10" fill="#C5A059" text-anchor="middle">ML-KEM-1024</text>
 
-  <rect x="128" y="146" width="76" height="22" rx="4" fill="#1F1C2E"/>
-  <text x="166" y="160" font-family="sans-serif" font-size="10" fill="#A89FBF" text-anchor="middle">SPHINCS+</text>
+  <rect x="134" y="146" width="76" height="22" rx="4" fill="#1F1C2E"/>
+  <text x="172" y="160" font-family="sans-serif" font-size="10" fill="#A89FBF" text-anchor="middle">SPHINCS+</text>
 
-  <rect x="210" y="146" width="88" height="22" rx="4" fill="#1F1C2E"/>
-  <text x="254" y="160" font-family="sans-serif" font-size="10" fill="#A89FBF" text-anchor="middle">HKDF-SHA3</text>
+  <rect x="216" y="146" width="84" height="22" rx="4" fill="#1F1C2E"/>
+  <text x="258" y="160" font-family="sans-serif" font-size="10" fill="#A89FBF" text-anchor="middle">HKDF-SHA3</text>
 
-  <rect x="304" y="146" width="60" height="22" rx="4" fill="#1F1C2E"/>
+  <rect x="306" y="146" width="56" height="22" rx="4" fill="#1F1C2E"/>
   <text x="334" y="160" font-family="sans-serif" font-size="10" fill="#A89FBF" text-anchor="middle">Python</text>
 </svg>

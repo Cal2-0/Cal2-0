@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-courageous--pithivier--cb9e32.netlify.app-C5A059?style=for-the-badge&logo=vercel&logoColor=13111C&labelColor=1F1C2E" alt="Portfolio Website"/></a>
   <a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/badge/Email-calvinja320%40gmail.com-1F1C2E?style=for-the-badge&logo=gmail&logoColor=EAE0D5&labelColor=13111C" alt="Email"/></a>
   <a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/badge/LinkedIn-calvin--jude--dsouza-1F1C2E?style=for-the-badge&logo=linkedin&logoColor=EAE0D5&labelColor=13111C" alt="LinkedIn"/></a>
-  <a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/badge/Portfolio-live-1F1C2E?style=for-the-badge&logo=vercel&logoColor=EAE0D5&labelColor=13111C" alt="Portfolio"/></a>
   <a href="https://github.com/Cal2-0"><img src="https://img.shields.io/badge/GitHub-@Cal2--0-1F1C2E?style=for-the-badge&logo=github&logoColor=EAE0D5&labelColor=13111C" alt="GitHub"/></a>
 </p>
 
@@ -23,6 +23,7 @@
 
 B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class of 2028 · CGPA 9.26/10. Currently **Team Lead, Cybersecurity Intern at Army Cyber Group**, New Delhi.
 
+- 🌐 **Portfolio Website & Interactive Demos:** [courageous-pithivier-cb9e32.netlify.app](https://courageous-pithivier-cb9e32.netlify.app)
 - 🔬 **Applied AI Research:** frequency-domain signal analysis for deepfake detection, interpretable model decisions
 - 🛡️ **Forensics & Intelligence:** on-chain behavioral clustering, transaction trace analysis, network packet dissection
 - 🔐 **Cryptography:** post-quantum key encapsulation (ML-KEM-1024), chaos steganography, zero-trust auth engines
@@ -93,26 +94,26 @@ B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class 
 
 ## 🔬 Featured Builds
 
-<table border="0">
+<table border="0" cellspacing="12" cellpadding="4">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   <a href="https://github.com/Cal2-0/Axon">
     <img src="card-axon.svg" width="100%" alt="AXON - Blockchain Behavioural Forensics"/>
   </a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
   <a href="https://github.com/Cal2-0/Sentinel-IP">
     <img src="card-sentinel.svg" width="100%" alt="SentinelAI - Linux Incident Engine"/>
   </a>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   <a href="https://github.com/betrayed1996/Kalera">
     <img src="card-kalera.svg" width="100%" alt="Kalera - Post-Quantum Steganography"/>
   </a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
   <a href="https://github.com/Danish4h-135/SecureCI">
     <img src="card-secureci.svg" width="100%" alt="SecureCI - GitHub Actions Security"/>
   </a>
