@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Cal2-0">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0F13,50:151820,100:1A1D28&height=220&section=header&text=CALVIN+JUDE+DSOUZA&fontSize=44&fontColor=EAE0D5&fontAlignY=38&desc=Cybersecurity+Engineer+%C2%B7+Applied+AI+Researcher&descSize=15&descColor=C9B8A8&descAlignY=57&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0F13,50:1A1D28,100:0E0F13&height=220&section=header&text=CALVIN+JUDE+DSOUZA&fontSize=44&fontColor=EAE0D5&fontAlignY=38&desc=Cybersecurity+Engineer+%C2%B7+Applied+AI+Researcher&descSize=15&descColor=C9B8A8&descAlignY=57&animation=fadeIn" width="100%">
 </a>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=16&duration=3200&pause=1400&color=C9B8A8&center=true&vCenter=true&width=700&lines=building+systems+that+establish+what+happened;blockchain+forensics+%C2%B7+network+intel+%C2%B7+deepfake+signal+analysis;B.Tech+Cybersecurity+%40+NMAMIT+%C2%B7+CGPA+9.26%2F10;Team+Lead+%C2%B7+Army+Cyber+Group%2C+New+Delhi" alt="typing"/>
@@ -23,17 +23,12 @@
 *Currently Team Lead, Cybersecurity Intern at Army Cyber Group, New Delhi.*
 
 **I build investigation platforms rather than dashboards — systems that establish what happened, not just that something did.**
-*Blockchain forensics · deepfake signal analysis · applied AI · post-quantum cryptography*
 
 </div>
 
 <br/>
 
-<div align="center">
-
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-
-</div>
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
 
 <br/>
 
@@ -44,30 +39,32 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,postgres,redis,cloudflare&theme=dark"/>
-<br/><sub>Infrastructure & DevOps</sub>
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,pytorch,tensorflow,ts&theme=dark"/>
+<br/><sub>Frameworks & AI</sub>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask,react,vscode&theme=dark"/>
-<br/><sub>AI · Backend · Web</sub>
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres,redis,git,cloudflare&theme=dark"/>
+<br/><sub>Infrastructure</sub>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postman,figma,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark"/>
 <br/><sub>Tooling</sub>
 
 </div>
 
 <br/>
 
-<div align="center">
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
 
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+<br/>
+
+<div align="center">
 
 **THE COLLECTION**
 
-<sub>a permanent exhibition, selected works</sub>
+<sub>selected works</sub>
 
 </div>
 
@@ -176,9 +173,11 @@ Recommends films from natural-language moods, reading the active tab as extra co
 
 <br/>
 
-<div align="center">
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
 
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+<br/>
+
+<div align="center">
 
 **HONOURS & PROVENANCE**
 
@@ -215,18 +214,24 @@ CYSECK NITK — bootcamp + CTF<br/><br/>
 
 <br/>
 
-<div align="center">
+<div align="center">▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</div>
 
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+<br/>
+
+<div align="center">
 
 **VISITOR LOG**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&hide_border=true&border_radius=8&title_color=C9B8A8&icon_color=C9B8A8&text_color=8A9BB0&bg_color=0E0F13&border_color=252830"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&hide_border=true&border_radius=8&title_color=C9B8A8&text_color=8A9BB0&bg_color=0E0F13&border_color=252830&langs_count=7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cal2-0&show_icons=true&hide_border=true&border_radius=8&title_color=C9B8A8&icon_color=C9B8A8&text_color=8A8078&bg_color=0E0F13"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal2-0&layout=compact&hide_border=true&border_radius=8&title_color=C9B8A8&text_color=8A8078&bg_color=0E0F13&langs_count=7"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Cal2-0&hide_border=true&border_radius=8&background=0E0F13&stroke=C9B8A8&ring=C9B8A8&fire=D4C5B0&currStreakLabel=C9B8A8&sideLabels=8A9BB0&sideNums=EAE0D5&dates=8A9BB0&currStreakNum=EAE0D5"/>
+<img src="https://streak-stats.demolab.com?user=Cal2-0&hide_border=true&border_radius=8&background=0E0F13&stroke=C9B8A8&ring=C9B8A8&fire=EAE0D5&currStreakLabel=C9B8A8&sideLabels=8A8078&sideNums=EAE0D5&dates=6B6560&currStreakNum=EAE0D5"/>
+
+<br/><br/>
+
+<img src="f1-racer.svg" width="100%" alt="F1 racing animation"/>
 
 <br/><br/>
 
