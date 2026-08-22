@@ -127,7 +127,7 @@ B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class 
 | **VisionEX** | Zero-trust auth suite — led 6-engineer team, 3 audits, zero criticals | OAuth2 · RBAC · IAM |
 | **[NetScope X](https://github.com/Cal2-0/Projects) + MassEd.ex** | Live device discovery + crowd-density computer vision | Scapy · YOLOv8 · D3.js |
 | **NetRecon** | Raw-socket LAN scanner, hand-crafted ICMP/ARP/TCP packets | C · Raw Sockets |
-| **[Lyra](https://github.com/Cal2-0/guide)** | 640+ dev tools, fuzzy search, ⌘K navigation | React 19 · Vite · Fuse.js |
+| **[Lyra](https://github.com/Cal2-0/guide)** &nbsp;<sub>[Live App ↗](https://thelyraapp.netlify.app/)</sub> | 640+ dev tools, fuzzy search, ⌘K navigation | React 19 · Vite · Fuse.js |
 | **[OuchMyBrain.io](https://github.com/ACEathon-2025/Team-39)** | Notes → flashcards/audio, "Professor Mode" — 🥈 2nd ACEathon | OCR · OpenAI · ElevenLabs |
 | **[VibeAlchemy](https://github.com/Cal2-0/VibeAlchemy)** | Movie recommendations from mood + active tab context | Chrome Extension · LLM |
 | **[VaidikaAI](https://github.com/NITHINKR06/Qwerty201_Protothon)** | Multilingual hospital triage — 48h hackathon | LLMs · Prompt Engineering |
@@ -138,32 +138,9 @@ B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class 
 
 ## 🏆 Honours & Experience
 
-<table>
-<tr><td valign="top" width="60%">
-
-**Team Lead, Cybersecurity Intern** — Army Cyber Group, New Delhi<br/><br/>
-**Cybersecurity Developer Intern & Team Lead** — NMAMIT, Jan–May 2025<br/>
-led 6-member team on VisionEX; DH key exchange across every authenticated channel<br/><br/>
-**Class Representative** — NMAMIT Cybersecurity Dept., 2026–2027<br/>
-represents 60+ students<br/><br/>
-**Core Member, PROTON** — 2025–2026<br/>
-designed collegiate CTFs incl. Game of Conquest, Fish Tank
-
-</td><td valign="top" width="40%">
-
-**CTF & Hackathon Finishes**<br/><br/>
-🥈 **Runner-Up** — ACEathon 2025<br/>
-🏴 **4th** — HackFest '26 Sidequest CTF<br/>
-🏴 **7th** — Code Intrusion CTF<br/>
-🏴 **14th/200+** — Enyugma CTF<br/>
-🎖️ **Special Commendation** — Innovex<br/><br/>
-
-**Certifications**<br/>
-IISc Bangalore / Pravega · CYSECK NITK<br/>
-*In progress:* Security+, eJPT, CHFI
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="honors-banner.svg" width="100%" alt="Honors, Credentials & CTF Victories"/>
+</p>
 
 ---
 
@@ -195,6 +172,5 @@ IISc Bangalore / Pravega · CYSECK NITK<br/>
 ---
 
 <p align="center">
-  <sub><i>Record maintained by the artist.</i></sub><br/>
-  <sub><a href="mailto:calvinja320@gmail.com">calvinja320@gmail.com</a> · <a href="https://linkedin.com/in/calvin-jude-dsouza">LinkedIn</a> · <a href="https://courageous-pithivier-cb9e32.netlify.app">Portfolio</a></sub>
+  <img src="signature-banner.svg" width="100%" alt="Calvin Jude Dsouza Signature"/>
 </p>

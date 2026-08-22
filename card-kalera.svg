@@ -24,8 +24,11 @@
   </circle>
   <text x="32" y="22" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#39FF88" letter-spacing="1">CRYPTO // POST-QUANTUM STEGO</text>
   
-  <rect x="312" y="8" width="112" height="20" rx="4" fill="#1C222E" stroke="#C9B8A8" stroke-width="0.5" opacity="0.8"/>
-  <text x="368" y="22" font-family="sans-serif" font-size="10" font-weight="bold" fill="#C9B8A8" text-anchor="middle">PROTOTYPE</text>
+  <!-- Live App Link Badge -->
+  <a href="https://kaleraapp.netlify.app/" target="_blank">
+    <rect x="295" y="8" width="130" height="20" rx="4" fill="#1C222E" stroke="#39FF88" stroke-width="0.8"/>
+    <text x="360" y="22" font-family="sans-serif" font-size="10" font-weight="bold" fill="#39FF88" text-anchor="middle">LIVE APP ↗</text>
+  </a>
 
   <!-- Project Title -->
   <text x="20" y="62" font-family="sans-serif" font-size="20" font-weight="bold" fill="#EAE0D5">Kalera</text>
@@ -34,7 +37,7 @@
   <!-- Key Highlights -->
   <text x="20" y="86" font-family="sans-serif" font-size="11" fill="#C9B8A8">• NIST-Compliant ML-KEM-1024 Key Encapsulation</text>
   <text x="20" y="104" font-family="sans-serif" font-size="11" fill="#C9B8A8">• SPHINCS+ Quantum-Resistant Digital Signatures</text>
-  <text x="20" y="122" font-family="sans-serif" font-size="11" fill="#C9B8A8">• Chaos-Positioned Image Steganography Transport</text>
+  <text x="20" y="122" font-family="sans-serif" font-size="11" fill="#C9B8A8">• Live Demo: kaleraapp.netlify.app</text>
 
   <!-- Tech Badges Bar -->
   <rect x="20" y="142" width="102" height="22" rx="4" fill="#1C222E" stroke="#39FF88" stroke-width="0.5"/>
