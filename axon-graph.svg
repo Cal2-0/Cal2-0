@@ -1,0 +1,78 @@
+<svg width="900" height="360" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg2" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#0f1613"/>
+      <stop offset="100%" stop-color="#080b09"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="360" fill="url(#bg2)"/>
+
+  <text x="30" y="34" font-family="Fira Code, monospace" font-size="13" fill="#4a6b58">axon // wallet cluster analysis</text>
+
+  <!-- edges: draw themselves, then a pulse travels along each -->
+  <g fill="none" stroke="#2c4a3a" stroke-width="1.5">
+    <path id="e1" d="M180 200 L360 130"/>
+    <path id="e2" d="M180 200 L340 260"/>
+    <path id="e3" d="M360 130 L560 100"/>
+    <path id="e4" d="M360 130 L540 200"/>
+    <path id="e5" d="M340 260 L540 200"/>
+    <path id="e6" d="M340 260 L520 310"/>
+    <path id="e7" d="M540 200 L730 150"/>
+    <path id="e8" d="M540 200 L720 260"/>
+    <path id="e9" d="M560 100 L730 150"/>
+  </g>
+
+  <!-- animated pulse dots traveling along edges -->
+  <g fill="#39FF88">
+    <circle r="3"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0s"><mpath href="#e1"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.1s" repeatCount="indefinite" begin="0.3s"><mpath href="#e3"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.6s" repeatCount="indefinite" begin="0.6s"><mpath href="#e5"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.2s" repeatCount="indefinite" begin="0.9s"><mpath href="#e7"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.5s" repeatCount="indefinite" begin="1.2s"><mpath href="#e4"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.3s" repeatCount="indefinite" begin="1.5s"><mpath href="#e8"/></animateMotion></circle>
+  </g>
+
+  <!-- nodes -->
+  <g font-family="Fira Code, monospace" font-size="10" fill="#7a9a88">
+    <g>
+      <circle cx="180" cy="200" r="16" fill="#0d1512" stroke="#39FF88" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <text x="180" y="228" text-anchor="middle">origin</text>
+    </g>
+    <g>
+      <circle cx="360" cy="130" r="12" fill="#0d1512" stroke="#6ea882" stroke-width="1.5"/>
+      <text x="360" y="112" text-anchor="middle">0x4f..a2</text>
+    </g>
+    <g>
+      <circle cx="340" cy="260" r="12" fill="#0d1512" stroke="#6ea882" stroke-width="1.5"/>
+      <text x="340" y="286" text-anchor="middle">0x91..c7</text>
+    </g>
+    <g>
+      <circle cx="560" cy="100" r="12" fill="#0d1512" stroke="#6ea882" stroke-width="1.5"/>
+      <text x="560" y="84" text-anchor="middle">0x2b..f0</text>
+    </g>
+    <g>
+      <circle cx="540" cy="200" r="14" fill="#0d1512" stroke="#e0b93e" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="540" y="222" text-anchor="middle" fill="#e0b93e">mixer</text>
+    </g>
+    <g>
+      <circle cx="520" cy="310" r="12" fill="#0d1512" stroke="#6ea882" stroke-width="1.5"/>
+      <text x="520" y="332" text-anchor="middle">0x77..e1</text>
+    </g>
+    <g>
+      <circle cx="730" cy="150" r="18" fill="#0d1512" stroke="#ff5c5c" stroke-width="2.5">
+        <animate attributeName="r" values="18;20;18" dur="1.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="730" y="180" text-anchor="middle" fill="#ff5c5c">flagged</text>
+    </g>
+    <g>
+      <circle cx="720" cy="260" r="12" fill="#0d1512" stroke="#6ea882" stroke-width="1.5"/>
+      <text x="720" y="284" text-anchor="middle">0x63..9d</text>
+    </g>
+  </g>
+
+  <text x="30" y="344" font-family="Fira Code, monospace" font-size="11" fill="#4a6b58">verdict: high-risk cluster · 5-layer behavioral trace</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="435" height="180" viewBox="0 0 435 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="435" height="180" fill="#0d1512" stroke="#39FF88" stroke-width="1.5" rx="8"/>
+
+  <!-- Command Line Prompt -->
+  <text x="18" y="32" font-family="Fira Code, monospace" font-size="11" fill="#4a6b58">$ <tspan fill="#eafff2">kalera encrypt</tspan> <tspan fill="#39FF88">--kem ml-kem-1024</tspan> <tspan fill="#7a9a88">--stego</tspan></text>
+
+  <!-- Execution Output Text -->
+  <text x="18" y="60" font-family="Fira Code, monospace" font-size="11" fill="#39FF88" opacity="0.9">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.0s" repeatCount="indefinite"/>
+    establishing quantum key tunnel + chaos pixel stego...
+  </text>
+
+  <!-- Animated Progress Bar -->
+  <g transform="translate(18, 76)">
+    <rect x="0" y="0" width="398" height="12" fill="#070a08" rx="3"/>
+    <rect x="0" y="0" width="398" height="12" fill="#39FF88" rx="3">
+      <animate attributeName="width" values="0;398" dur="1.7s" fill="freeze"/>
+    </rect>
+    <text x="395" y="10" font-family="Fira Code, monospace" font-size="9" text-anchor="end" fill="#070a08" font-weight="600">LOCKED</text>
+  </g>
+
+  <!-- Result Output -->
+  <g transform="translate(18, 118)">
+    <text x="0" y="0" font-family="Fira Code, monospace" font-size="11" font-weight="600" fill="#eafff2">result: <tspan fill="#39FF88">STEGO_PAYLOAD_WOVEN</tspan> · <tspan fill="#e0b93e">zero distortion</tspan></text>
+    <text x="0" y="18" font-family="Fira Code, monospace" font-size="9" fill="#7a9a88">ML-KEM-1024 + SPHINCS+ quantum-resistant transport</text>
+  </g>
+
+  <!-- Tech Stack Line -->
+  <line x1="18" y1="150" x2="417" y2="150" stroke="#1a2a22" stroke-width="1"/>
+  <text x="18" y="166" font-family="Fira Code, monospace" font-size="9" fill="#4a6b58">ML-KEM-1024 · SPHINCS+ · HKDF-SHA3 · Chaos Stego · Python</text>
+</svg>

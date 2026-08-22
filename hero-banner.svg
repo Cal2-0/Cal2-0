@@ -1,0 +1,56 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0a0e0c"/>
+      <stop offset="100%" stop-color="#0d1512"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#39FF88" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39FF88" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#39FF88" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- faint grid -->
+  <g stroke="#1a2a22" stroke-width="1">
+    <path d="M0 40 H900 M0 80 H900 M0 120 H900 M0 160 H900 M0 200 H900"/>
+    <path d="M100 0 V220 M300 0 V220 M500 0 V220 M700 0 V220"/>
+  </g>
+
+  <!-- scanline sweep -->
+  <rect x="0" y="-60" width="900" height="60" fill="url(#scan)">
+    <animate attributeName="y" from="-60" to="220" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- terminal prompt -->
+  <text x="60" y="70" font-family="Fira Code, monospace" font-size="14" fill="#4a6b58">calvin@archive:~$</text>
+
+  <!-- typed name -->
+  <text x="60" y="115" font-family="Fira Code, monospace" font-size="40" font-weight="600" fill="#eafff2">
+    <tspan>CALVIN DSOUZA</tspan>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.05;0.35" dur="1s" fill="freeze"/>
+  </text>
+  <rect x="452" y="88" width="14" height="34" fill="#39FF88">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.05;0.06;0.5;0.51;1" dur="1.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" dur="0.9s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- tagline, fades in after name types -->
+  <text x="60" y="150" font-family="Fira Code, monospace" font-size="15" fill="#39FF88" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.8s" fill="freeze"/>
+    systems that establish what happened, not just that something did
+  </text>
+
+  <text x="60" y="178" font-family="Fira Code, monospace" font-size="12" fill="#4a6b58" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.8s" fill="freeze"/>
+    cybersecurity · blockchain forensics · applied ai · cryptography
+  </text>
+
+  <!-- corner status dot -->
+  <circle cx="840" cy="40" r="4" fill="#39FF88">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="852" y="44" font-family="Fira Code, monospace" font-size="11" fill="#4a6b58">building</text>
+</svg>
