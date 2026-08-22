@@ -23,7 +23,7 @@
 
 B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class of 2028 · CGPA 9.26/10. Currently **Team Lead, Cybersecurity Intern at Army Cyber Group**, New Delhi.
 
-- 🌐 **Portfolio Website & Interactive Demos:** [courageous-pithivier-cb9e32.netlify.app](https://calvindsouza.netlify.app)
+- 🌐 **Portfolio Website & Interactive Demos:** [https://calvindsouza.netlify.app](https://calvindsouza.netlify.app)
 - 🔬 **Applied AI Research:** frequency-domain signal analysis for deepfake detection, interpretable model decisions
 - 🛡️ **Forensics & Intelligence:** on-chain behavioral clustering, transaction trace analysis, network packet dissection
 - 🔐 **Cryptography:** post-quantum key encapsulation (ML-KEM-1024), chaos steganography, zero-trust auth engines
