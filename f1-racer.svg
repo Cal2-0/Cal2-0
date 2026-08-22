@@ -1,22 +1,16 @@
-<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="track-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0F0E17"/>
-      <stop offset="20%" stop-color="#191629"/>
-      <stop offset="80%" stop-color="#191629"/>
-      <stop offset="100%" stop-color="#0F0E17"/>
+      <stop offset="0%" stop-color="#13111C"/>
+      <stop offset="20%" stop-color="#181524"/>
+      <stop offset="80%" stop-color="#181524"/>
+      <stop offset="100%" stop-color="#13111C"/>
     </linearGradient>
     
     <linearGradient id="car-body-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#B8A9D9"/>
-      <stop offset="40%" stop-color="#E5C158"/>
-      <stop offset="80%" stop-color="#F4EFE6"/>
-      <stop offset="100%" stop-color="#B8A9D9"/>
-    </linearGradient>
-
-    <linearGradient id="drs-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E5C158" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#E5C158" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#A89FBF"/>
+      <stop offset="50%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#EAE0D5"/>
     </linearGradient>
   </defs>
 
@@ -33,95 +27,84 @@
       0%   { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
     }
-    @keyframes taillight-pulse {
-      0%, 100% { fill: #E5C158; opacity: 1; filter: drop-shadow(0 0 4px #E5C158); }
-      50%      { fill: #B8A9D9; opacity: 0.4; stroke: #E5C158; }
-    }
-
     .f1-car-group { animation: f1-drive 5s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
     .track-line { animation: track-motion 0.5s linear infinite; }
     .wheel { animation: wheel-spin 0.2s linear infinite; transform-box: fill-box; transform-origin: center; }
-    .tail-led { animation: taillight-pulse 0.4s infinite; }
   </style>
 
-  <!-- Container -->
-  <rect width="900" height="130" fill="#0F0E17" rx="8"/>
+  <!-- Borderless Container -->
+  <rect width="900" height="120" fill="#13111C" rx="8"/>
 
   <!-- Telemetry Bar -->
-  <rect x="0" y="0" width="900" height="24" fill="#171424"/>
-  <text x="20" y="16" font-family="'Georgia', serif" font-size="10" font-weight="bold" fill="#E5C158" letter-spacing="1">FORMULA 1 HYPERCAR ✦ OVERDRIVE MODE</text>
-  <text x="320" y="16" font-family="'Courier New', monospace" font-size="10" fill="#B8A9D9">RPM: 15,400</text>
-  <text x="440" y="16" font-family="'Courier New', monospace" font-size="10" fill="#B8A9D9">SPEED: 348 KM/H</text>
-  <text x="590" y="16" font-family="'Courier New', monospace" font-size="10" fill="#E5C158">DRS: OPEN</text>
-  <text x="730" y="16" font-family="'Georgia', serif" font-size="10" font-style="italic" fill="#F4EFE6">QUALIFYING LAP</text>
-  <line x1="0" y1="24" x2="900" y2="24" stroke="#B8A9D9" stroke-width="0.5" opacity="0.3"/>
+  <text x="20" y="18" font-family="'Georgia', serif" font-size="10" font-weight="600" fill="#C5A059" letter-spacing="1">FORMULA 1 HYPERCAR TELEMETRY</text>
+  <text x="340" y="18" font-family="sans-serif" font-size="10" fill="#A89FBF">RPM: 15,400</text>
+  <text x="460" y="18" font-family="sans-serif" font-size="10" fill="#A89FBF">SPEED: 348 KM/H</text>
+  <text x="600" y="18" font-family="sans-serif" font-size="10" fill="#C5A059">DRS: OPEN</text>
+  <text x="740" y="18" font-family="'Georgia', serif" font-size="10" font-style="italic" fill="#EAE0D5">QUALIFYING LAP</text>
+  <line x1="0" y1="26" x2="900" y2="26" stroke="#252136" stroke-width="1"/>
 
   <!-- Race Track -->
-  <rect x="0" y="45" width="900" height="50" fill="url(#track-grad)"/>
-  <line x1="0" y1="45" x2="900" y2="45" stroke="#E5C158" stroke-width="1.5" stroke-dasharray="15,15" opacity="0.6"/>
-  <line x1="0" y1="95" x2="900" y2="95" stroke="#B8A9D9" stroke-width="1.5" stroke-dasharray="15,15" opacity="0.6"/>
-  <line x1="0" y1="70" x2="900" y2="70" stroke="#B8A9D9" stroke-width="1" stroke-dasharray="25,25" class="track-line" opacity="0.25"/>
+  <rect x="0" y="42" width="900" height="50" fill="url(#track-grad)"/>
+  <line x1="0" y1="42" x2="900" y2="42" stroke="#252136" stroke-width="1"/>
+  <line x1="0" y1="92" x2="900" y2="92" stroke="#252136" stroke-width="1"/>
+  <line x1="0" y1="67" x2="900" y2="67" stroke="#A89FBF" stroke-width="1" stroke-dasharray="25,25" class="track-line" opacity="0.2"/>
 
   <!-- F1 Open-Wheel Hypercar Silhouette -->
-  <g class="f1-car-group" transform="translate(0, 35)">
-    <!-- Aerodynamic DRS Trail Flow -->
-    <path d="M0 30 L45 28 L95 30 Z" fill="url(#drs-glow)"/>
-    <line x1="-30" y1="23" x2="25" y2="23" stroke="#E5C158" stroke-width="1" opacity="0.5"/>
-    <line x1="-50" y1="33" x2="15" y2="33" stroke="#B8A9D9" stroke-width="1" opacity="0.4"/>
+  <g class="f1-car-group" transform="translate(0, 32)">
+    <!-- Aerodynamic Trail -->
+    <line x1="-30" y1="23" x2="25" y2="23" stroke="#C5A059" stroke-width="1" opacity="0.4"/>
+    <line x1="-50" y1="33" x2="15" y2="33" stroke="#A89FBF" stroke-width="1" opacity="0.3"/>
 
     <!-- High Rear Wing & Endplate -->
-    <rect x="18" y="4" width="4" height="24" fill="#B8A9D9"/>
-    <rect x="12" y="4" width="28" height="5" rx="1" fill="#E5C158"/>
-    <rect x="14" y="12" width="24" height="3" rx="1" fill="#F4EFE6"/>
+    <rect x="18" y="4" width="4" height="24" fill="#A89FBF"/>
+    <rect x="12" y="4" width="28" height="5" rx="1" fill="#C5A059"/>
+    <rect x="14" y="12" width="24" height="3" rx="1" fill="#EAE0D5"/>
 
-    <!-- Rear LED Rain Light -->
-    <rect x="14" y="24" width="4" height="6" rx="1" class="tail-led"/>
+    <!-- Tail LED -->
+    <rect x="14" y="24" width="4" height="6" rx="1" fill="#C5A059"/>
 
     <!-- Chassis Body & Cockpit -->
-    <path d="M20 34 L180 34 L175 38 L22 38 Z" fill="#0F0E17"/>
+    <path d="M20 34 L180 34 L175 38 L22 38 Z" fill="#13111C"/>
     <path d="M22 30 L45 22 L70 20 L95 14 L115 14 L135 18 L160 26 L185 33 L190 35 L22 35 Z" fill="url(#car-body-grad)"/>
 
     <!-- Engine Fin -->
-    <path d="M45 22 L85 10 L100 14 L70 22 Z" fill="#241E38"/>
+    <path d="M45 22 L85 10 L100 14 L70 22 Z" fill="#252136"/>
 
     <!-- Halo Safety Arc & Driver Helmet -->
-    <path d="M92 14 L108 8 L120 14 Z" fill="#0F0E17"/>
-    <path d="M98 12 L114 12 L110 18 L94 18 Z" fill="#191629" stroke="#E5C158" stroke-width="0.8"/>
-    <circle cx="102" cy="15" r="2.5" fill="#F4EFE6"/>
+    <path d="M92 14 L108 8 L120 14 Z" fill="#13111C"/>
+    <path d="M98 12 L114 12 L110 18 L94 18 Z" fill="#1B1829" stroke="#C5A059" stroke-width="0.8"/>
+    <circle cx="102" cy="15" r="2.5" fill="#EAE0D5"/>
 
     <!-- Front Nose Cone & Low Front Wing Assembly -->
-    <path d="M160 26 L195 33 L205 35 L160 33 Z" fill="#F4EFE6"/>
-    <path d="M185 34 L218 34 L222 37 L182 37 Z" fill="#E5C158"/>
-    <rect x="218" y="26" width="4" height="12" rx="1" fill="#B8A9D9"/>
+    <path d="M160 26 L195 33 L205 35 L160 33 Z" fill="#EAE0D5"/>
+    <path d="M185 34 L218 34 L222 37 L182 37 Z" fill="#C5A059"/>
+    <rect x="218" y="26" width="4" height="12" rx="1" fill="#A89FBF"/>
 
-    <!-- Wheels (Distinct F1 Open-Wheel Tires with Alloy Spokes) -->
+    <!-- Wheels (Open-Wheel F1 Slick Tires) -->
     <!-- Rear Tire -->
     <g transform="translate(48, 35)">
-      <circle r="14" fill="#15131E" stroke="#E5C158" stroke-width="1.2"/>
-      <circle r="9" fill="#0F0E17"/>
+      <circle r="14" fill="#1B1829" stroke="#C5A059" stroke-width="1.2"/>
+      <circle r="9" fill="#13111C"/>
       <g class="wheel">
-        <line x1="-7" y1="0" x2="7" y2="0" stroke="#B8A9D9" stroke-width="1.5"/>
-        <line x1="0" y1="-7" x2="0" y2="7" stroke="#B8A9D9" stroke-width="1.5"/>
-        <line x1="-5" y1="-5" x2="5" y2="5" stroke="#E5C158" stroke-width="1"/>
-        <line x1="-5" y1="5" x2="5" y2="-5" stroke="#E5C158" stroke-width="1"/>
+        <line x1="-7" y1="0" x2="7" y2="0" stroke="#A89FBF" stroke-width="1.5"/>
+        <line x1="0" y1="-7" x2="0" y2="7" stroke="#A89FBF" stroke-width="1.5"/>
+        <line x1="-5" y1="-5" x2="5" y2="5" stroke="#C5A059" stroke-width="1"/>
+        <line x1="-5" y1="5" x2="5" y2="-5" stroke="#C5A059" stroke-width="1"/>
       </g>
-      <circle r="3" fill="#F4EFE6"/>
+      <circle r="3" fill="#EAE0D5"/>
     </g>
 
     <!-- Front Tire -->
     <g transform="translate(165, 35)">
-      <circle r="13" fill="#15131E" stroke="#E5C158" stroke-width="1.2"/>
-      <circle r="8" fill="#0F0E17"/>
+      <circle r="13" fill="#1B1829" stroke="#C5A059" stroke-width="1.2"/>
+      <circle r="8" fill="#13111C"/>
       <g class="wheel">
-        <line x1="-6" y1="0" x2="6" y2="0" stroke="#B8A9D9" stroke-width="1.5"/>
-        <line x1="0" y1="-6" x2="0" y2="6" stroke="#B8A9D9" stroke-width="1.5"/>
-        <line x1="-4" y1="-4" x2="4" y2="4" stroke="#E5C158" stroke-width="1"/>
-        <line x1="-4" y1="4" x2="4" y2="-4" stroke="#E5C158" stroke-width="1"/>
+        <line x1="-6" y1="0" x2="6" y2="0" stroke="#A89FBF" stroke-width="1.5"/>
+        <line x1="0" y1="-6" x2="0" y2="6" stroke="#A89FBF" stroke-width="1.5"/>
+        <line x1="-4" y1="-4" x2="4" y2="4" stroke="#C5A059" stroke-width="1"/>
+        <line x1="-4" y1="4" x2="4" y2="-4" stroke="#C5A059" stroke-width="1"/>
       </g>
-      <circle r="2.5" fill="#F4EFE6"/>
+      <circle r="2.5" fill="#EAE0D5"/>
     </g>
   </g>
-
-  <!-- Bottom Line -->
-  <line x1="0" y1="120" x2="900" y2="120" stroke="#191629" stroke-width="1"/>
 </svg>

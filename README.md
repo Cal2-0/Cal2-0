@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/badge/Email-calvinja320%40gmail.com-241E38?style=for-the-badge&logo=gmail&logoColor=F4EFE6&labelColor=0F0E17" alt="Email"/></a>
-  <a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/badge/LinkedIn-calvin--jude--dsouza-241E38?style=for-the-badge&logo=linkedin&logoColor=F4EFE6&labelColor=0F0E17" alt="LinkedIn"/></a>
-  <a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/badge/Portfolio-live-241E38?style=for-the-badge&logo=vercel&logoColor=F4EFE6&labelColor=0F0E17" alt="Portfolio"/></a>
-  <a href="https://github.com/Cal2-0"><img src="https://img.shields.io/badge/GitHub-@Cal2--0-241E38?style=for-the-badge&logo=github&logoColor=F4EFE6&labelColor=0F0E17" alt="GitHub"/></a>
+  <a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/badge/Email-calvinja320%40gmail.com-1F1C2E?style=for-the-badge&logo=gmail&logoColor=EAE0D5&labelColor=13111C" alt="Email"/></a>
+  <a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/badge/LinkedIn-calvin--jude--dsouza-1F1C2E?style=for-the-badge&logo=linkedin&logoColor=EAE0D5&labelColor=13111C" alt="LinkedIn"/></a>
+  <a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/badge/Portfolio-live-1F1C2E?style=for-the-badge&logo=vercel&logoColor=EAE0D5&labelColor=13111C" alt="Portfolio"/></a>
+  <a href="https://github.com/Cal2-0"><img src="https://img.shields.io/badge/GitHub-@Cal2--0-1F1C2E?style=for-the-badge&logo=github&logoColor=EAE0D5&labelColor=13111C" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Team%20Lead-Army%20Cyber%20Group-0F0E17?style=flat-square&logo=shield&logoColor=E5C158"/>
-  <img src="https://img.shields.io/badge/B.Tech-Cybersecurity%20(CGPA%209.26)-0F0E17?style=flat-square&logo=graduation-cap&logoColor=B8A9D9"/>
-  <img src="https://img.shields.io/badge/Focus-Forensics%20%7C%20Applied%20AI%20%7C%20PQC-0F0E17?style=flat-square&logo=code&logoColor=E5C158"/>
+  <img src="https://img.shields.io/badge/Team%20Lead-Army%20Cyber%20Group-13111C?style=flat-square&logo=shield&logoColor=C5A059"/>
+  <img src="https://img.shields.io/badge/B.Tech-Cybersecurity%20(CGPA%209.26)-13111C?style=flat-square&logo=graduation-cap&logoColor=A89FBF"/>
+  <img src="https://img.shields.io/badge/Focus-Forensics%20%7C%20Applied%20AI%20%7C%20PQC-13111C?style=flat-square&logo=code&logoColor=C5A059"/>
 </p>
 
 ---
@@ -147,12 +147,12 @@ B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Cal2-0?style=for-the-badge&logo=github&color=241E38&labelColor=0F0E17&logoColor=B8A9D9" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Cal2-0?style=for-the-badge&logo=github&color=241E38&labelColor=0F0E17&logoColor=B8A9D9" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/Cal2-0?style=for-the-badge&logo=github&color=1F1C2E&labelColor=13111C&logoColor=A89FBF" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Cal2-0?style=for-the-badge&logo=github&color=1F1C2E&labelColor=13111C&logoColor=A89FBF" alt="Stars"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&theme=react-dark&bg_color=0F0E17&color=E5C158&line=B8A9D9&point=F4EFE6&area=true&hide_border=true" width="100%" alt="Calvin's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cal2-0&theme=react-dark&bg_color=13111C&color=C5A059&line=A89FBF&point=EAE0D5&area=true&hide_border=true" width="100%" alt="Calvin's GitHub Activity Graph"/>
 </p>
 
 ## 🏎️ Contribution Stream

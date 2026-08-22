@@ -1,30 +1,20 @@
-<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="95" viewBox="0 0 900 95" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="mag-sig-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F0E17"/>
-      <stop offset="100%" stop-color="#1A172B"/>
-    </linearGradient>
-    <linearGradient id="mag-sig-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E5C158"/>
-      <stop offset="50%" stop-color="#B8A9D9"/>
-      <stop offset="100%" stop-color="#E5C158"/>
+    <linearGradient id="subtle-sig-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#13111C"/>
+      <stop offset="100%" stop-color="#181524"/>
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="898" height="108" rx="8" fill="url(#mag-sig-bg)" stroke="url(#mag-sig-glow)" stroke-width="1.2"/>
+  <!-- Borderless Container -->
+  <rect x="0" y="0" width="900" height="95" rx="8" fill="url(#subtle-sig-bg)"/>
 
-  <!-- Top Line -->
-  <line x1="0" y1="28" x2="900" y2="28" stroke="#B8A9D9" stroke-width="0.5" opacity="0.3"/>
-  <text x="24" y="18" font-family="'Georgia', serif" font-size="11" font-weight="bold" fill="#E5C158" letter-spacing="1">AUTHENTICATED DOSSIER ✦ CALVIN JUDE DSOUZA</text>
-  <text x="680" y="18" font-family="'Georgia', serif" font-size="10" font-style="italic" fill="#B8A9D9">VOL. 01 — 2026-2027</text>
+  <!-- Subtitle Bar -->
+  <text x="24" y="22" font-family="'Georgia', serif" font-size="10" font-weight="600" fill="#C5A059" letter-spacing="1">AUTHENTICATED PROFILE RECORD</text>
+  <text x="876" y="22" font-family="sans-serif" font-size="10" fill="#8E85A3" text-anchor="end">CALVIN JUDE DSOUZA</text>
+  <line x1="24" y1="30" x2="876" y2="30" stroke="#252136" stroke-width="1"/>
 
   <!-- Main Signature Text -->
-  <text x="450" y="58" font-family="'Georgia', serif" font-size="18" font-style="italic" fill="#F4EFE6" text-anchor="middle">"Record maintained by the artist."</text>
-  <text x="450" y="76" font-family="sans-serif" font-size="11" fill="#B8A9D9" text-anchor="middle">Security Engineer &amp; Applied AI Researcher · NMAMIT / Army Cyber Group</text>
-
-  <!-- Links Bar -->
-  <line x1="0" y1="88" x2="900" y2="88" stroke="#B8A9D9" stroke-width="0.5" opacity="0.2"/>
-  <text x="210" y="102" font-family="sans-serif" font-size="10" fill="#E5C158">calvinja320@gmail.com</text>
-  <text x="400" y="102" font-family="sans-serif" font-size="10" fill="#B8A9D9">linkedin.com/in/calvin-jude-dsouza</text>
-  <text x="640" y="102" font-family="sans-serif" font-size="10" fill="#E5C158">courageous-pithivier-cb9e32.netlify.app</text>
+  <text x="450" y="54" font-family="'Georgia', serif" font-size="16" font-style="italic" fill="#EAE0D5" text-anchor="middle">"Record maintained by the artist."</text>
+  <text x="450" y="70" font-family="sans-serif" font-size="10" fill="#A89FBF" text-anchor="middle">calvinja320@gmail.com · linkedin.com/in/calvin-jude-dsouza · courageous-pithivier-cb9e32.netlify.app</text>
 </svg>
