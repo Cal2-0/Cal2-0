@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://courageous-pithivier-cb9e32.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-courageous--pithivier--cb9e32.netlify.app-C5A059?style=for-the-badge&logo=vercel&logoColor=13111C&labelColor=1F1C2E" alt="Portfolio Website"/></a>
+  <a href="https://calvindsouza.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-calvindsouza.netlify.app-C5A059?style=for-the-badge&logo=vercel&logoColor=13111C&labelColor=1F1C2E" alt="Portfolio Website"/></a>
   <a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/badge/Email-calvinja320%40gmail.com-1F1C2E?style=for-the-badge&logo=gmail&logoColor=EAE0D5&labelColor=13111C" alt="Email"/></a>
   <a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/badge/LinkedIn-calvin--jude--dsouza-1F1C2E?style=for-the-badge&logo=linkedin&logoColor=EAE0D5&labelColor=13111C" alt="LinkedIn"/></a>
   <a href="https://github.com/Cal2-0"><img src="https://img.shields.io/badge/GitHub-@Cal2--0-1F1C2E?style=for-the-badge&logo=github&logoColor=EAE0D5&labelColor=13111C" alt="GitHub"/></a>
