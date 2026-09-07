@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://calvindsouza.netlify.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-calvindsouza.netlify.app-C5A059?style=for-the-badge&logo=vercel&logoColor=13111C&labelColor=1F1C2E" alt="Portfolio Website"/></a>
+  <a href="https://calvindsouza.is-a.dev/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-calvindsouza.is-a.dev/-C5A059?style=for-the-badge&logo=vercel&logoColor=13111C&labelColor=1F1C2E" alt="Portfolio Website"/></a>
   <a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/badge/Email-calvinja320%40gmail.com-1F1C2E?style=for-the-badge&logo=gmail&logoColor=EAE0D5&labelColor=13111C" alt="Email"/></a>
   <a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/badge/LinkedIn-calvin--jude--dsouza-1F1C2E?style=for-the-badge&logo=linkedin&logoColor=EAE0D5&labelColor=13111C" alt="LinkedIn"/></a>
   <a href="https://github.com/Cal2-0"><img src="https://img.shields.io/badge/GitHub-@Cal2--0-1F1C2E?style=for-the-badge&logo=github&logoColor=EAE0D5&labelColor=13111C" alt="GitHub"/></a>
@@ -23,7 +23,7 @@
 
 B.Tech Computer Science (Cybersecurity), NMAM Institute of Technology — Class of 2028 · CGPA 9.26/10. Currently **Team Lead, Cybersecurity Intern at Army Cyber Group**, New Delhi.
 
-- 🌐 **Portfolio Website & Interactive Demos:** [https://calvindsouza.netlify.app](https://calvindsouza.netlify.app)
+- 🌐 **Portfolio Website & Interactive Demos:** [https://calvindsouza.is-a.dev](https://calvindsouza.is-a.dev)
 - 🔬 **Applied AI Research:** frequency-domain signal analysis for deepfake detection, interpretable model decisions
 - 🛡️ **Forensics & Intelligence:** on-chain behavioral clustering, transaction trace analysis, network packet dissection
 - 🔐 **Cryptography:** post-quantum key encapsulation (ML-KEM-1024), chaos steganography, zero-trust auth engines
