@@ -3,15 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://calvindsouza.is-a.dev/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO_WEBSITE-calvindsouza.is-a.dev/-C5A059?style=for-the-badge&logo=vercel&logoColor=13111C&labelColor=1F1C2E" alt="Portfolio Website"/></a>
-  <a href="mailto:calvinja320@gmail.com"><img src="https://img.shields.io/badge/Email-calvinja320%40gmail.com-1F1C2E?style=for-the-badge&logo=gmail&logoColor=EAE0D5&labelColor=13111C" alt="Email"/></a>
-  <a href="https://linkedin.com/in/calvin-jude-dsouza"><img src="https://img.shields.io/badge/LinkedIn-calvin--jude--dsouza-1F1C2E?style=for-the-badge&logo=linkedin&logoColor=EAE0D5&labelColor=13111C" alt="LinkedIn"/></a>
-  <a href="https://github.com/Cal2-0"><img src="https://img.shields.io/badge/GitHub-@Cal2--0-1F1C2E?style=for-the-badge&logo=github&logoColor=EAE0D5&labelColor=13111C" alt="GitHub"/></a>
+  <a href="https://calvindsouza.is-a.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-calvindsouza.is--a.dev-C5A059?style=for-the-badge&logo=vercel&logoColor=13111C&labelColor=1F1C2E" alt="Portfolio Website"/>
+  </a>
+  <a href="mailto:calvinja320@gmail.com">
+    <img src="https://img.shields.io/badge/Email-calvinja320%40gmail.com-1F1C2E?style=for-the-badge&logo=gmail&logoColor=EAE0D5&labelColor=13111C" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/calvin-jude-dsouza">
+    <img src="https://img.shields.io/badge/LinkedIn-calvin--jude--dsouza-1F1C2E?style=for-the-badge&logo=linkedin&logoColor=EAE0D5&labelColor=13111C" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Cal2-0">
+    <img src="https://img.shields.io/badge/GitHub-%40Cal2--0-1F1C2E?style=for-the-badge&logo=github&logoColor=EAE0D5&labelColor=13111C" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Team%20Lead-Army%20Cyber%20Group-13111C?style=flat-square&logo=shield&logoColor=C5A059"/>
-  <img src="https://img.shields.io/badge/B.Tech-Cybersecurity%20(CGPA%209.26)-13111C?style=flat-square&logo=graduation-cap&logoColor=A89FBF"/>
+  <img src="https://img.shields.io/badge/B.Tech-Cybersecurity%20%7C%20CGPA%209.26-13111C?style=flat-square&logo=code&logoColor=A89FBF"/>
   <img src="https://img.shields.io/badge/Focus-Forensics%20%7C%20Applied%20AI%20%7C%20PQC-13111C?style=flat-square&logo=code&logoColor=C5A059"/>
 </p>
 
